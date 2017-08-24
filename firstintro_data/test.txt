@@ -1,0 +1,1036 @@
+﻿In linear regression, the goal is to predict the real-valued labels of data points in Euclidean space using a linear function.
+Big data analysis challenges both statistics and computation.
+Deep learning has recently achieved significant advances in several areas of perceptual computing, including speech recognition [1], image analysis and object detection [2, 3], and natural language processing [4].
+Bayesian optimization techniques form a successful approach for optimizing black-box functions [5].
+Several real-world applications routinely encounter multi-way data with structure which can be modeled as low-rank tensors.
+A Markov random field (MRF) is a graph whose vertices are random variables, and whose edges specify a neighborhood over the random variables.
+As vision techniques like segmentation and object recognition begin to mature, there has been an increasing interest in broadening the scope of research to full scene understanding.
+Automatic music transcription is the task of transcribing a musical audio signal into a symbolic representation (for example MIDI or sheet music).
+The nearest neighbor classifier for non-parametric classification is perhaps the most intuitive learning algorithm.
+As the number of digital images which are available online is constantly increasing due to rapid advances in digital camera technology, image processing tools and photo sharing platforms, similaritypreserving binary codes have received significant attention for image search and retrieval in largescale image collections [1, 2].
+Object categorization is a challenging problem that requires drawing boundaries between groups of objects in a seemingly continuous space.
+`1 -regularized M -estimators have attracted considerable interest in recent years due to their ability to fit large-scale statistical models, where the underlying model parameters are sparse.
+Among pre-processing methods, data partitioning is one of the most fundamental.
+All branches of experimental science are plagued by missing data.
+There has been significant interest recently in developing discriminative feature-learning models, in which the labels are utilized within a max-margin classifier.
+In a classical transfer learning setting, we have sufficient fully labeled data from the source domain (or the training domain) where we fully observe the data points X tr , and all corresponding labels Y tr are known.
+Many problems in Computer Vision, Natural Language Processing and Computational Biology involve mappings from an input space X to an exponentially large space Y of structured outputs.
+Consider the problem of determining the connectivity structure of subsurface aquifers in a large ground-water system from time-series measurements of the concentration of tracers injected and measured at multiple spatial locations.
+Sketching has emerged as a powerful dimensionality reduction technique for accelerating statistical learning techniques such as `p -regression, low rank approximation, and principal component analysis (PCA) [12, 5, 14].
+Undirected probabilistic graphical models, also known as Markov Random Fields (MRFs), are a natural framework for modelling in networks, such as sensor networks and social networks [24, 11, 20].
+Stochastic and online gradient descent methods have proved to be extremely useful for solving largescale machine learning problems [1, 2, 3, 4].
+In statistical analyses involving data from individuals, there is an increasing tension between the need to share the data and the need to protect sensitive information about the individuals.
+An integer-valued1 function f : 2X → Z defined over subsets of some finite ground set X of n elements is submodular if it satisfies the following diminishing marginal returns property: for every S ⊆ T ⊆ X and i ∈ X \ T , f (S ∪ {i}) − f (S) ≥ f (T ∪ {i}) − f (T ).
+Over the past decades, our knowledge of how neural systems process static information has advanced considerably, as is well documented by the receptive field properties of neurons.
+Many learning tasks require separating a time series into a linear combination of a larger number of “source” signals.
+When faced with large datasets, it is commonly observed that using all the data with a simpler algorithm is superior to using a small fraction of the data with a more computationally intense but possibly more effective algorithm.
+The adversarial multi-armed bandit problem [4] is a T -round prediction game played by a randomized player in an adversarial environment.
+Given a set of individual preferences from multiple decision makers or judges, we address the problem of computing a consensus ranking that best represents the preference of the population collectively.
+Recurrent Neural Networks (RNN) constitute a powerful computational tool for sequences modelling and prediction [1].
+It is often the case that our geometric intuition, derived from experience within a low dimensional physical world, is inadequate for thinking about the geometry of typical error surfaces in high-dimensional spaces.
+A cognitive map, as originally conceived by Tolman [46], is a geometric representation of the environment that can support sophisticated navigational behavior.
+Artificial neural networks with several hidden layers, called deep neural networks, have become popular due to their unprecedented success in a variety of machine learning tasks (see, e.
+Over the past decade, progress has been made in developing non-asymptotic bounds on the estimation error of structured parameters based on norm regularized regression.
+Policy search methods can be divided into model-based algorithms, which use a model of the system dynamics, and model-free techniques, which rely only on real-world experience without learning a model [10].
+Differential Dynamic Programming (DDP) is a powerful trajectory optimization approach.
+Consider the problem of sequentially recommending content for a set of users.
+Matching local visual features is a core problem in computer vision with a vast range of applications such as image registration [28], image alignment and stitching [6] and structure-from-motion [1].
+When statistical predictors are deployed in a live production environment, feedback loops can become a concern.
+Consider a learner who in each round t = 1, 2, .
+Branch-and-bound (B&B) [1] is a systematic enumerative method for global optimization of nonconvex and combinatorial problems.
+Structured prediction models are popularly used to solve structure dependent problems in a wide variety of application domains including natural language processing, bioinformatics, speech recognition, and computer vision.
+The F1 -measure, defined as the harmonic mean of the precision and recall of a binary decision rule [20], is a traditional way of assessing the performance of classifiers.
+This paper addresses the problem of solving large state-space Markov Decision Processes (MDPs)[16] in an infinite time horizon and discounted reward setting.
+There has been a growing interest in high-dimensional statistical problems, where the number of parameters d is comparable to or even larger than the sample size n, spurred in part by many modern science and engineering applications.
+Building rich generative models that are capable of extracting useful, high-level latent representations from high-dimensional sensory input lies at the core of solving many AI-related tasks, including object recognition, speech perception and language understanding.
+Stochastic variational inference (SVI) is a powerful method for scaling up Bayesian computation to massive data sets [1].
+The high speed of human sensory perception [1] is puzzling given its inherent computational complexity: sensory inputs are noisy and ambiguous, and therefore do not uniquely determine the state of the environment for the observer, which makes perception akin to a statistical inference problem.
+Until recently, much of the emphasis in the theory of high-dimensional statistics has been on “first order” problems, such as estimation and prediction.
+The performance of face recognition systems depends heavily on facial representation, which is naturally coupled with many types of face variations, such as view, illumination, and expression.
+Recent years have seen a surge of work at the intersection of social choice and machine learning.
+1.
+Models of natural language need the ability to compose the meaning of words and phrases in order to understand complex utterances such as facts, multi-word entities, sentences or stories.
+In this paper we introduce the Translation-invariant Matrix-T process (TiMT) for estimating Gaussian graphical models (GGMs) from pairwise distances.
+The learnablity of regular languages is a classic topic in computational learning theory.
+A standard optimization criterion for an infinite horizon Markov decision process (MDP) is the expected sum of (discounted) costs (i.
+Recommender systems exploit fragmented information available from each user.
+Biological systems face the difficult task of devising effective control strategies based on partial information communicated between sensors and actuators across multiple distributed networks.
+It once seemed obvious that the running time of an algorithm should increase with the size of the input.
+Extracting clusters or communities in networks have numerous applications and constitutes a fundamental task in many disciplines, including social science, biology, and physics.
+In this paper we develop a probabilistic model of articles and reader behavior data.
+Modern data-science applications increasingly require distributed learning algorithms to extract information from many data repositories stored at different locations with minimal interaction.
+Bipartite ranking (scoring) amounts to rank (score) data from binary labels.
+The explosion in both size and velocity of data has brought new challenges to the design of statistical algorithms.
+Method of Moments (MoM) based algorithms [1, 2, 3] for learning latent variable models have recently become popular in the machine learning community.
+Gaussian processes (GPs, [1]) are a popular choice in practical Bayesian non-parametric modeling.
+Humans are able to routinely estimate unknown world states from ambiguous and noisy stimuli, and anticipate upcoming events by learning the temporal dynamics of relevant states of the world from incomplete knowledge of the environment.
+In many important applications, we are faced with the problem of sampling from high dimensional probability measures [19].
+In this paper, we study online learning problems within a drifting-games framework, with the aim of developing a general methodology for designing learning algorithms based on a minimax analysis.
+Deep Neural Networks (DNNs) are extremely powerful machine learning models that achieve excellent performance on difficult problems such as speech recognition [13, 7] and visual object recognition [19, 6, 21, 20].
+The predominant paradigm of modeling time series is based on state-space models, in which a hidden state evolves according to some predefined dynamical law, and an observation model maps the state to the dataspace.
+Bayesian inference in statistical models involving a large number of latent random variables is in general a difficult problem.
+The traditional approach to fitting a Gaussian mixture model onto the data involves using the wellknown expectation-maximization algorithm to estimate component parameters [7].
+How our visual system achieves robust performance against corruptions is a mystery.
+The goal of supervised machine learning is to use available source data to make predictions with the smallest possible error (loss) on unlabeled target data.
+Recent years have witnessed the emergence of big graphs in a large variety of real applications, such as the web and social network services.
+Determining connectivity in populations of neurons is fundamental to understanding neural computation and function.
+In recent years, many computer vision and natural language processing (NLP) tasks have benefited from the use of dense representations of inputs by allowing superficially different inputs to be related to one another [26, 9, 7, 4].
+We have recently seen a revival of attention given to convolutional neural networks (CNNs) [22] due to their high performance for large-scale visual recognition tasks [15, 21, 30].
+Recent progress in large-scale techniques for recording neural activity has made it possible to study the joint firing statistics of 102 up to 105 cells at single-neuron resolution.
+Many image and video degradation processes can be modeled as translation-invariant convolution.
+Topic modeling offers a suite of useful tools that automatically learn the latent semantic structure of a large collection of documents.
+This paper consider the following optimization problem: def minimize f (x) = g(x) + h(x), x∈Rd (1) d where Pn g is the average dof the smooth convex functions g1 , .
+The success of machine learning has led to its widespread use as a workhorse in a wide variety of domains, from text and language recognition to trading agent design.
+In the standard formulation of graph clustering, we are given an unweighted graph and seek a partitioning of the nodes into disjoint groups such that members of the same group are more densely connected than those in different groups.
+Structure sparsity induced regularization terms [1, 8] have been widely used recently for feature learning purpose, due to the inherent sparse structures of the real world data.
+In many real-world applications, the performance measure used to evaluate a learning model is non-decomposable and cannot be expressed as a summation or expectation of losses on individual data points; this includes, for example, the F-measure used in information retrieval [1], and several combinations of the true positive rate (TPR) and true negative rate (TNR) used in class imbalanced classification settings [2–5] (see Table 1).
+Structure learning in Markov networks, also known as undirected graphical models or Markov random fields, has attracted considerable interest in computational statistics, machine learning, and artificial intelligence.
+Without any prior knowledge, what can be automatically learned from high-dimensional data? If the variables are uncorrelated then the system is not really high-dimensional but should be viewed as a collection of unrelated univariate systems.
+Deep convolutional neural networks (CNNs) [1] with max-pooling layers [2] trained by backprop [3] on GPUs [4] have become the state-of-the-art in object recognition [5, 6, 7, 8], segmentation/detection [9, 10], and scene parsing [11, 12] (for an extensive review see [13]).
+Graphical models [1, 2, 3] are a popular and important means of representing certain conditional independence relations between random variables.
+Modern data analysis has seen an explosion in the size of the datasets available to analyze.
+Drawing samples from arbitrary probability distributions is a core problem in statistics and machine learning.
+Understanding the world in a single glance is one of the most accomplished feats of the human brain: it takes only a few tens of milliseconds to recognize the category of an object or environment, emphasizing an important role of feedforward processing in visual recognition.
+Coordinate descent methods have received extensive attention in recent years due to their potential for solving large-scale optimization problems arising from machine learning and other applications.
+Convolutional neural networks (CNNs) trained via backpropagation were recently shown to perform well on image classification tasks with millions of training images and thousands of categories [1, 2].
+Given a matrix X ∈ Rm×n , biclustering or submatrix localization is the problem of identifying a subset of the rows and columns of X such that the bicluster or submatrix consisting of the selected rows and columns are “significant” compared to the rest of X.
+One fundamental goal of any learning algorithm is to strike a right balance between underfitting and overfitting.
+Progress on the path from shallow bag-of-words information retrieval algorithms to machines capable of reading and understanding documents has been slow.
+Statistical relational models such as Markov logic [5] have the power to represent the rich relational structure as well as the underlying uncertainty, both of which are the characteristics of several real world application domains.
+In this paper, we develop a latent variable model and efﬁcient spectral algorithm motivated by the recent emergence of very large data sets of chromatin marks from multiple human cell types [7, 9].
+Not only are our data growing in volume and dimensionality, but the understanding that we wish to gain from them is increasingly sophisticated.
+While early human case studies revealed the importance of the hippocampus in episodic memory [1, 2], the discovery of “place cells” in rats [3] established its role for spatial representation.
+Interactive real-time controllers that are capable of generating complex, stable and realistic movements have many potential applications including robotic control, animation and gaming.
+Gaussian Mixture Models (GMMs) are a mainstay in a variety of areas, including machine learning and signal processing [4, 10, 16, 19, 21].
+Tensors are useful representational objects to model a variety of problems such as graphical models with latent variables [1], audio classification [20], psychometrics [8], and neuroscience [3].
+Bayesian networks are probabilistic graphical models representing joint probability distributions of random variables.
+Understanding differences between populations is a common task across disciplines, from biomedical data analysis to demographic or textual analysis.
+Entropies, divergences, and mutual informations are classical information-theoretic quantities that play fundamental roles in statistics, machine learning, and across the mathematical sciences.
+The task of selecting a set of items subject to constraints on the size or the cost of the set is versatile in machine learning problems.
+Bayesian inference is a powerful framework for analyzing data.
+Many problems in machine learning can be written as a stochastic optimization problem minimize E[f˜(x)] over x ∈ Rn , where f˜ is a random objective function.
+This work tackles the challenge of constructing fully empirical bounds on the mixing time of Markov chains based on a single sample path.
+Since large numbers of high-definition displays have sprung up, generating high-resolution videos from previous low-resolution contents, namely video super-resolution (SR), is under great demand.
+Testing whether two random variables are identically distributed without imposing any parametric assumptions on their distributions is important in a variety of scientific applications.
+The last few years have seen tremendous progress in learning useful image representations [6].
+Probabilistic graphical models such as Bayesian networks and Markov random fields provide a useful framework and powerful tools for machine learning.
+Computer vision researchers often go through great lengths to remove dataset biases from their models [32, 20].
+Recently, supervised learning has been developed and used successfully to produce representations that have enabled leaps forward in classification accuracy for several tasks [1].
+Being rooted in information retrieval [16], the so-called F-measure is nowadays routinely used as a b = (b performance metric in various prediction tasks.
+Let M ⇤ 2 Rm⇥n be a rank k matrix with k much smaller than m and n.
+It is often desirable to model discrete data in terms of continuous latent structure.
+Enormous amounts of astronomical data are collected by a range of instruments at multiple spectral resolutions, providing information about billions of sources of light in the observable universe [1, 10].
+Topic models have emerged as flexible and important tools for the modelisation of text corpora.
+Methods for neuroimaging research can be grouped by discovering neurobiological structure or assessing the neural correlates associated with mental tasks.
+Variational methods are a popular alternative to Markov chain Monte Carlo (MCMC) methods for Bayesian inference.
+Symmetry-breaking is an approach to speeding up satisfiability testing by adding constraints, called symmetry-breaking predicates (SBPs), to a theory [7, 1, 16].
+Any matrix A ∈ Rn×d with rank r can be written using a singular value decomposition (SVD) as A = UΣVT .
+Many models of visual saliency have been proposed in the last decade with differences in defining principles and also divergent objectives.
+Applications such as speech recognition [1], medical diagnosis [2], optical character recognition [3], machine translation [4], and scene labeling [5] have two properties: (i) they are instances of structured prediction, where the predicted output is a complex structured object; and (ii) they are user-facing applications for which it is important to provide accurate estimates of confidence.
+Most interactive systems (e.
+Log-linear models, a general class that includes conditional random fields (CRFs) and generalized linear models (GLMs), offer a flexible yet tractable approach modeling conditional probability distributions p(x|y) [1, 2].
+The brain is faced with the persistent challenge of decision making under uncertainty due to noise in the sensory inputs and perceptual ambiguity .
+In many machine learning tasks, data is represented in a high-dimensional Euclidean space.
+Consider the following simple game.
+We follow the standard mathematical abstraction of this problem (Candes & Fernandez-Granda [4, 3]): consider a d-dimensional signal x(t) modeled as a weighted sum of k Dirac measures in Rd : x(t) = k X wj µ(j) , (1) j=1 where the point sources, the µ(j) ’s, are in Rd .
+Graphical models are a popular modeling tool for both discrete and continuous distributions.
+Several variants of learning-to-rank problems have recently been studied in an online setting, with preferences over alternatives given in the form of stochastic pairwise comparisons [6].
+A critical task in data analysis is to determine how similar two data samples are.
+A hallmark of an intelligent agent is to learn new information as the world unfolds and to improvise by fusing the new information with prior knowledge.
+Clustering is a fundamental machine learning problem with widespread applications.
+Recurrent neural networks (RNN) have recently been trained successfully for time series modeling, and have been used to achieve state-of-the-art results in supervised tasks including handwriting recognition [12] and speech recognition [13].
+When faced with a complex target distribution, one often turns to RMarkov chain Monte Carlo (MCMC) [1] to approximate intractable expectations EP [h(Z)] = X p(x)h(x)dx with asympPn totically exact sample estimates EQ [h(X)] = i=1 q(xi )h(xi ).
+The task of completing the missing entries of a matrix from an incomplete subset of (potentially noisy) entries is encountered in many applications including recommendation systems, data imputation, covariance matrix estimation, and sensor localization among others.
+The contextual bandit problem [1, 2, 3] is an important extension of the classic multi-armed bandit (MAB) problem [4], where the agent can observe a set of features, referred to as context, before making a decision.
+One of the most basic problems in statistical hypothesis testing is the question of distinguishing whether two unknown distributions are very similar, or significantly different.
+Likelihood-based approaches to learning dynamical systems, such as EM [1] and MCMC [2], can be slow and suffer from local optima.
+A good distance metric is often the key to an effective machine learning algorithm.
+High-dimensional tensor-valued data are prevalent in many fields such as personalized recommendation systems and brain imaging research [1, 2].
+We consider a generalization of the one-bit quantized regression problem, where we seek to recover the regression coefficient β ∗ ∈ Rp from one-bit measurements.
+A central challenge in machine learning is to extract useful information from massive data.
+Background Many learning applications, ranging from language-processing staples such as speech recognition and machine translation to biological studies in virology and bioinformatics, call for estimating large discrete distributions from their samples.
+A wide range of machine learning and signal processing problems can be formulated as the minimization of a composite objective: min F (x) := f (x) + kBxk x∈X (1) where X is closed and convex, f is convex and can be either smooth, or nonsmooth yet enjoys a particular structure.
+Tensor is a natural way to express higher order interactions for a variety of data and tensor decomposition has been successfully applied to wide areas ranging from chemometrics, signal processing, to neuroimaging; see [15, 18] for a survey.
+There has been significant recent interest in deep learning.
+Complex machine learning tools such as deep learning are gaining increasing popularity and are being applied to a wide variety of problems.
+In the primate and human retina, roughly 20 distinct classes of retinal ganglion cells (RGCs) send distinct visual information to diverse targets in the brain [18, 7, 6].
+We study the problem of monitoring several time series so as to maintain a precise belief while minimising the cost of sensing.
+Over the last decade, graph kernels have become a popular approach to graph comparison [4, 5, 7, 9, 12, 13, 14], which is at the heart of many machine learning applications in bioinformatics, imaging, and social-network analysis.
+Discovering causal effects is a fundamentally important yet very challenging task in various disciplines, from public health research and sociological studies, economics to many applications in the life sciences.
+Our visual system is designed to perceive a physical world that is full of dynamic content.
+Analogy is the task of mapping information from a source to a target.
+The great success of neural networks is due in part to the simplicity of the backpropagation algorithm, which allows one to efficiently compute the gradient of any loss function defined as a composition of differentiable functions.
+We consider the problem of distributed convex learning and optimization, where a set of m machines, each with access to a different local convex function Fi : Rd 7→ R and a convex domain W ⊆ Rd , attempt to solve the optimization problem m min F (w) where F (w) = w∈W 1 X Fi (w).
+Over recent years, the landscape of computer vision has been drastically altered and pushed forward through the adoption of a fast, scalable, end-to-end learning framework, the Convolutional Neural Network (CNN) [18].
+Low rank matrix completion approaches are among the most widely used collaborative filtering methods, where a partially observed matrix is available to the practitioner, who needs to impute the missing entries.
+Consider the following convex optimization problem min f (x) = g(x1 , · · · , xK ) + K  hk (xk ), s.
+Deep neural networks currently demonstrate state-of-the-art performance in many domains of largescale machine learning, such as computer vision, speech recognition, text processing, etc.
+Considerable research has been devoted to developing probabilistic models for high-dimensional time-series data, such as video and music sequences, motion capture data, and text streams.
+Many machine learning tasks can be framed as learning a function given noisy information about its inputs and outputs.
+Consider the problem of regret minimization in non-stochastic multi-armed bandits, as defined in the classic paper of Auer, Cesa-Bianchi, Freund, and Schapire [5].
+The Multi-Armed Bandit (MAB) problem is one of the most popular settings encountered in the sequential decision-making literature [Rob52, LR85, EDMM06, Sco10, BCB12] with applications across multiple disciplines.
+We consider the following problem of high dimensional linear regression: y = Xθ∗ + ω , (1) where y ∈ Rn is the response vector, X ∈ Rn×p has independent isotropic sub-exponential random rows, ω ∈ Rn has i.
+Time series forecasting plays a crucial role in a number of domains ranging from weather forecasting and earthquake prediction to applications in economics and finance.
+Many learning tasks require labeling large datasets.
+Many modern fMRI studies of the human brain use data from multiple subjects.
+The central idea behind Bayesian nonparametrics (BNPs) is the replacement of classical finitedimensional prior distributions with general stochastic processes, allowing for an open-ended number of degrees of freedom in a model [8].
+Aggregating pairwise comparisons and partial rankings are important problems with applications in econometrics [1], psychometrics [2, 3], sports ranking [4, 5] and multiclass classification [6].
+The goal of a metric learning algorithm is to capture the idiosyncrasies in the data mainly by defining a new space of representation where some semantic constraints between examples are fulfilled.
+Partial monitoring is a general framework for sequential decision making problems with imperfect feedback.
+There have been many recent advances in the recovery of communities in networks, under “blockmodel” assumptions [19, 18, 9].
+Graphical models provide a powerful framework for reasoning with probabilistic information.
+Probabilistic modeling has emerged as a powerful tool for data analysis.
+Tree structured group Lasso (TGL) [13, 30] is a powerful regression technique in uncovering the hierarchical sparse patterns among the features.
+A recent confluence of results from game theory and learning theory gives a simple explanation for why good outcomes in large families of strategically-complex games can be expected.
+Matrix factorization (MF) techniques have emerged as a powerful tool to perform collaborative filtering in large datasets [1].
+Online social networks, such as Twitter or Weibo, have become large information networks where people share, discuss and search for information of personal interest as well as breaking news [1].
+Many machine learning tasks involve careful tuning of a regularization parameter that controls the balance between an empirical loss term and a regularization term.
+Recently, attention-based recurrent networks have been successfully applied to a wide variety of tasks, such as handwriting synthesis [1], machine translation [2], image caption generation [3] and visual object classification [4].
+Given a label budget, what is the best way to learn a classifier? Active learning approaches to this question are known to yield exponential improvements over supervised learning under strong assumptions [7].
+The central problem of this paper is computational complexity in a setting where the number of classes k for multiclass prediction is very large.
+Deep neural networks (DNNs) have recently been achieving state of the art results in many fields.
+Building a good generative model of natural images has been a fundamental problem within computer vision.
+We consider the problem of robust Principal Component Analysis (PCA).
+In structured output prediction, it is important to learn a model that can perform probabilistic inference and make diverse predictions.
+Markov random fields (MRFs) are used in many areas of computer science such as vision and speech.
+In this paper we develop SLEEC (Sparse Local Embeddings for Extreme Classification), an extreme multi-label classifier that can make significantly more accurate and faster predictions, as well as scale to larger problems, as compared to state-of-the-art embedding based approaches.
+In interactive submodular set cover (ISSC) [10, 11, 9], the goal is to interactively satisfy all plausible submodular functions in as few actions as possible.
+We formulate hierarchical image segmentation from the perspective of estimating an ultrametric distance over the set of image pixels that agrees closely with an input set of noisy pairwise distances.
+This paper constructs an algorithmic framework for the following convex optimization template: f ‹ :“ min tf pxq : Ax ´ b P Ku , xPX (1) where f : Rp Ñ R Y t`8u is a convex function, A P Rnˆp , b P Rn , and X and K are nonempty, closed and convex sets in Rp and Rn respectively.
+Stochastic optimal control (SOC) is a general and powerful framework with applications in many areas of science and engineering.
+The dueling bandit problem [1] arises naturally in domains where feedback is more reliable when given as a pairwise preference (e.
+Multi-task learning (MTL) advocates sharing relevant information among several related tasks during the training stage.
+Finding the global maximizer of a non-concave objective function based on sequential, noisy observations is a fundamental problem in various real world domains e.
+Learning problems on graph-structured data have received significant attention in recent years [11, 17, 20].
+In matrix completion, one has access to a matrix with only a few observed entries, and the task is to estimate the entire matrix using the observed entries.
+We consider a convex optimization problem, minimizex∈X f (x), where X ⊆ Rn is convex and closed, f is a C 1 convex function, and ∇f is assumed to be Lf -Lipschitz.
+Problem setting The problem of Compressive Phase Retrieval (CPR) is generally stated as the problem of estimating a k-sparse vector x? ∈ Rd from noisy measurements of the form 2 yi = |hai , x? i| + zi (1) for i = 1, 2, .
+Discriminative methods pursue a direct mapping from the input to the output space for a classification or a regression task.
+Scene labeling (or scene parsing) is an important step towards high-level image interpretation.
+The rapidly growing data dimension has brought new challenges to statistical variable selection, a crucial technique for identifying important variables to facilitate interpretation and improve prediction accuracy.
+Dynamic causal systems are a major focus of scientific investigation in diverse domains, including neuroscience, economics, meteorology, and education.
+Machine learning has recently made great strides in many application areas, fueling a growing demand for machine learning systems that can be used effectively by novices in machine learning.
+It is surely no surprise to the reader that modern machine learning algorithms thrive on large amounts of data — preferably labeled.
+Undirected Graphical Models (also known as Markov Random Fields) provide a flexible framework to represent networks of random variables and have been used in a large variety of applications in machine learning, statistics, signal processing and related fields [2].
+The greedy algorithm is simple and easy-to-implement, and can be applied to solve a wide range of complex optimization problems, either with exact solutions (e.
+In the traditional economic approach to identifying a revenue-maximizing auction, one first posits a prior distribution over all unknown information, and then solves for the auction that maximizes expected revenue with respect to this distribution.
+Recurrent neural networks can be used to process sequences, either as input, output or both.
+Modeling notions such as coverage, representativeness, or diversity is an important challenge in many machine learning problems.
+Modern classification problems often involve the prediction of multiple labels simultaneously associated with a single instance e.
+One of the challenging aspects of deep learning is the optimization of the training criterion over millions of parameters: the difficulty comes from both the size of these neural networks and because the training objective is non-convex in the parameters.
+This paper studies the problem of recovering communities in the general stochastic block model with linear size communities, for constant and logarithmic degree regimes.
+The goal of machine learning is to produce hypotheses or models that generalize well to the unseen instances of the problem.
+Training deep networks is a challenging problem [16, 2] and various heuristics and optimization algorithms have been suggested in order to improve the efficiency of the training [5, 9, 4].
+An active learner is given a hypothesis class, a large set of unlabeled examples and the ability to interactively make label queries to an oracle on a subset of these examples; the goal of the learner is to learn a hypothesis in the class that ﬁts the data well by making as few oracle queries as possible.
+There has been a steep rise in recent work [6, 7, 9–12, 25, 27, 29] on “variance reduced” stochastic gradient algorithms for convex problems of the finite-sum form: Xn min f (x) := n1 fi (x).
+Gaussian process models are attractive for machine learning because of their flexible nonparametric nature.
+Economist Thomas Sowell remarked that “The first lesson of economics is scarcity: There is never enough of anything to fully satisfy all those who want it.
+We investigate the problem of constructing, in a memory and computationally efficient manner, an accurate estimate of the optimal rank k approximation M (k) of a large (m × n) matrix M ∈ [0, 1]m×n .
+Delivering personalized user experiences is believed to play a crucial role in the long-term engagement of users to modern web-services [26].
+We consider the low-rank approximation of symmetric positive semi-definite (SPSD) matrices that arise in machine learning and data analysis, with an emphasis on obtaining good statistical guarantees.
+We consider the problem of optimizing the average of a finite but large sum of smooth functions, n min f (x) = x∈Rd 1X fi (x).
+A restricted Boltzmann machine (RBM) [1, 2] is a type of undirected neural network with surprisingly many applications.
+Kernel methods [17] have enjoyed tremendous success in solving several fundamental problems of machine learning ranging from classification, regression, feature extraction, dependency estimation, causal discovery, Bayesian inference and hypothesis testing.
+Robust Least Squares Regression (RLSR) addresses the problem of learning a reliable set of regression coefficients in the presence of several arbitrary corruptions in the response vector.
+Modern statistical inference demands scalability to massive datasets and high-dimensional models.
+Determinantal point processes (DPPs) are point processes [1] that encode repulsiveness using algebraic arguments.
+Neural networks have become ubiquitous in applications ranging from computer vision [1] to speech recognition [2] and natural language processing [3].
+Graphical models are a flexible and widely used tool for modeling and inference in high dimensional settings.
+Our brains analyze high-dimensional datasets streamed by our sensory organs with efficiency and speed rivaling modern computers.
+With increasingly efﬁcient data collection methods, scientists are interested in quickly analyzing ever larger data sets.
+Hidden Markov Models (HMM’s) are among the most widely adopted latent-variable models used to model time-series datasets in the statistics and machine learning communities.
+In complex, chronic diseases such as autism, lupus, and Parkinson’s, the way the disease manifests may vary greatly across individuals [1].
+Semi-supervised learning is now a standard methodology in machine learning.
+Most reinforcement learning (RL) algorithms learn a value function—a function that estimates the expected return obtained by following a given policy from a given state.
+We focus on the following minimization problem, n minimize f (✓) := 1X fi (✓), n i=1 (1.
+Multi-Armed Bandit (MAB) problems [1] constitute the most fundamental sequential decision problems with an exploration vs.
+Kernel methods such as nonlinear support vector machines (SVMs) [1] provide a powerful framework for nonlinear learning, but they often come with significant computational cost.
+Causality is a fundamental concept in sciences and philosophy.
+For several decades there has been much interest in understanding the manner in which ideas, language, and information cascades spread through society.
+Consider the problem of minimizing a convex function over some convex domain.
+Humans are good at considering “what-if?” questions about objects in their environment.
+Markowitz’s mean-variance analysis sets the basis for modern portfolio optimization theory [1].
+Ensemble-based learning is a very successful approach to learning classifiers, including well-known methods like boosting [1], bagging [2], and random forests [3].
+In active learning, we are given a sample space X , a label space Y, a class of models that map X to Y, and a large set U of unlabelled samples.
+A function f : 2S → R+ is called submodular if f (X) + f (Y ) ≥ f (X ∪ Y ) + f (X ∩ Y ) for all X, Y ⊆ S, where S is a finite ground set.
+We consider a general global optimization problem: maximize f (x) subject to x ∈ Ω ⊂ RD where f : Ω → R is a non-convex black-box deterministic function.
+Many high-dimensional datasets comprise points derived from a smooth, lower-dimensional manifold embedded within the high-dimensional space of measurements and possibly corrupted by noise.
+Nowadays data of huge scale are prevalent in many applications of statistical learning and data mining.
+Sequential Monte Carlo (SMC) is a class of algorithms that draw samples from a target distribution of interest by sampling from a series of simpler intermediate distributions.
+As the number of classes increases, two important issues emerge: class overlap and multilabel nature of examples [9].
+In the late 1940s, Wald and colleagues developed a sequential test called the sequential probability ratio test (SPRT; [7]).
+Expectation Propagation (EP, 1) is an efficient approximate inference algorithm that is known to give good approximations, to the point of being almost exact in certain applications [2, 3].
+We study a natural asynchronous stochastic gradient method for the solution of minimization problems of the form Z minimize f (x) := EP [F (x; W )] = F (x; ω)dP (ω), (1) Ω where x 7→ F (x; ω) is convex for each ω ∈ Ω, P is a probability distribution on Ω, and the vector x ∈ Rd .
+In many machine learning problems, the statistical risk functional is an expectation over d-tuples (d ≥ 2) of observations, rather than over individual points.
+Machine learning aims to find regularities in data to perform various tasks.
+Numerous graphics algorithms have been established to synthesize photorealistic images from 3D models and environmental variables (lighting and viewpoints), commonly known as rendering.
+We consider the estimation of generalized linear models (GLMs) [1], under high-dimensional settings where the number of variables p may greatly exceed the number of observations n.
+Stochastic search algorithms [1, 2, 3, 4] are black box optimizers of an objective function that is either unknown or too complex to be modeled explicitly.
+You step out of your house and notice a group of people looking up.
+The multi-armed bandit is the simplest class of problems that exhibit the exploration/exploitation dilemma.
+The expectation-maximization (EM) algorithm [12] is the most popular approach for calculating the maximum likelihood estimator of latent variable models.
+Computing integrals is a core challenge in machine learning and numerical methods play a central role in this area.
+Estimating expectations using Markov Chain Monte Carlo (MCMC) is a fundamental approximate inference technique in Bayesian statistics.
+Learning deep structured models has attracted considerable research attention recently.
+Combining image understanding and natural language interaction is one of the grand dreams of artificial intelligence.
+This paper studies a class of problems that share a common high-level objective: from a number n of probabilistic distributions, find the k ones whose means are the greatest by a certain metric.
+The spectral distribution of light reflected off a surface is a function of an intrinsic material property of the surface—its reflectance—and also of the spectral distribution of the light illuminating the surface.
+Recently, there is increasing interest in the field of multimodal learning for both natural language and vision.
+Text classification is a classic topic for natural language processing, in which one needs to assign predefined categories to free-text documents.
+According to Ghahramani [9], models that have a nonparametric component give us more flexiblity that could lead to better predictive performance.
+A broad class of learning problems fits into the framework of obtaining a sequence of independent random samples from a unknown distribution, and then (approximately) recovering this distribution using as few samples as possible.
+Consider the following detection problem.
+We consider a general class of stochastic optimization problems formulated as ξ ∗ = arg min Eτ ∼p(·|ξ) [J(τ )], ξ (1) where ξ defines a vector of decision variables, τ represents the system response defined through the density p(τ |ξ), and J(τ ) defines a positive cost function which can be non-smooth and nonconvex.
+Linear Programming (LP) has been studied since the early 19th century and has become one of the representative tools of numerical optimization with wide applications in machine learning such as `1 -regularized SVM [1], MAP inference [2], nonnegative matrix factorization [3], exemplarbased clustering [4, 5], sparse inverse covariance estimation [6], and Markov Decision Process [7].
+Networks are the simplest representation of relationships between entities, and as such have attracted significant attention recently.
+Figure 1 shows an example of an image restoration problem.
+Multi-label learning refers to the problem setting in which the goal is to assign to an object (e.
+Age-related brain diseases, such as Parkinson’s or Alzheimer’s disease (AD) are complex diseases with multiple effects on the metabolism, structure and function of the brain.
+The problem of measuring and harnessing dependence between random variables is an inescapable statistical problem that forms the basis of a large number of applications in machine learning, including rate distortion theory [4], information bottleneck methods [28], population coding [1], curiositydriven exploration [26, 21], model selection [3], and intrinsically-motivated reinforcement learning [22].
+We treat the problem of optimizing a function f : X → R given a finite budget of n noisy evaluations.
+In this paper, we introduce an unsupervised learning method that fits well with supervised learning.
+Semidefinite programming has become a key optimization tool in many areas of applied mathematics, signal processing and machine learning.
+Recent advances in object detection are driven by the success of region proposal methods (e.
+Principal Component Analysis (PCA) reduces data dimensionality by projecting it onto principal subspaces spanned by the leading eigenvectors of the sample covariance matrix.
+Gaussian graphical models (GGMs) form a powerful class of statistical models for representing distributions over a set of variables [1].
+Consider test preparation software that tutors students for a national advanced placement exam taken at the end of a year, or maximizing business revenue by the end of each quarter.
+Latent Dirichlet Allocation (LDA) [5], among various forms of topic models, is an important probabilistic generative model for analyzing large collections of text corpora.
+Normalized random measures (NRMs) form a broad class of discrete random measures, including Dirichlet proccess (DP) [1] normalized inverse Gaussian process [2], and normalized generalized Gamma process [3, 4].
+Directed generative models are naturally interpreted as specifying sequential procedures for generating data.
+Modeling large-scale multivariate count data is an important challenge that arises in numerous applications such as neuroscience, systems biology and amny others.
+Gaussian process (GP) models have become an important component of the machine learning literature.
+Nowcasting convective precipitation has long been an important problem in the field of weather forecasting.
+Recently a number of methods have been developed for applying Bayesian learning to large datasets.
+In numerous machine learning and data analysis applications, the input data are modelled as a matrix A ∈ Rm×n , where m is the number of objects (data points) and n is the number of features.
+There is broad interest in learning and exploiting lower-dimensional structure in high-dimensional data.
+Some of the recent progress on the theoretical foundations of online learning has been motivated by the parallel developments in the realm of statistical learning.
+Neural networks today are achieving state-of-the-art performance in competitions across a range of fields [1][2][3].
+Low rank matrix completion is an important topic in machine learning and has been successfully applied to many practical applications [22, 12, 11].
+Many network metrics have been introduced to measure the similarity between any two vertices.
+Typical multi-class application domains such as natural language processing [1], information retrieval [2], image annotation [3] and web advertising [4] involve tens or hundreds of thousands of classes, and yet these datasets are still growing [5].
+Learning features that are able to discriminate is a classical problem in data analysis.
+Stochastic gradient descent (SGD) [1] is currently the standard in machine learning for the optimization of highly multivariate functions if their gradient is corrupted by noise.
+Online advertisement is currently the fastest growing form of advertising.
+A large number of machine learning and signal processing problems are formulated as the minimization of a composite objective function F : Rp → R: n o minp F (x) , f (x) + ψ(x) , (1) x∈R where f is convex and has Lipschitz continuous derivatives with constant L and ψ is convex but may not be differentiable.
+You may remember that, on January 15, 2009, in New York City, a commercial passenger plane struck a flock of geese within two minutes of taking off from LaGuardia Airport.
+One of the central problems in computational learning theory is the efficient learning of polynomials f (x) : x ∈ {−1, 1}n → R.
+Probabilistic graphical models are an elegant framework for reasoning about multiple variables with structured dependencies.
+Finding optimal or close-to-optimal policies in large Markov Decision Processes (MDPs) requires the use of approximation.
+The last decade has witnessed fast growing attention in research of high-dimensional data: images, videos, DNA microarray data and data from many other applications all have the property that the dimensionality can be comparable or even much larger than the number of samples.
+Optimal transport distances (Villani, 2008), a.
+Boosting algorithms [21] are ensemble methods that convert a learning algorithm for a base class of models with weak predictive power, such as decision trees, into a learning algorithm for a class of models with stronger predictive power, such as a weighted majority vote over base models in the case of classification, or a linear combination of base models in the case of regression.
+Over the past years, advances in adopting methods from algebraic topology to study the “shape” of data (e.
+Neural spiking activity recorded from populations of cortical neurons can exhibit substantial variability in response to repeated presentations of a sensory stimulus [1].
+Despite the tremendous growth of available data over the past decade, the lack of fully annotated data, which is an essential part of success of any traditional supervised learning algorithm, demands methods that allow good generalization from limited amounts of training data.
+Nearest neighbor search is a key algorithmic problem with applications in several fields including computer vision, information retrieval, and machine learning [4].
+The problem of data partitioning is of great importance to many machine learning (ML) and data science applications as is evidenced by the wealth of clustering procedures that have been and continue to be developed and used.
+Deep neural networks are a flexible family of models that easily scale to millions of parameters and datapoints, but are still tractable to optimize using minibatch-based stochastic gradient ascent.
+Good statistical models of populations are often very different from good models of individuals.
+Community detection in graphs, also known as graph clustering, is a problem where one wishes to identify subsets of the vertices of a graph such that the connectivity inside the subset is in some way denser than the connectivity of the subset with the rest of the graph.
+Many scenarios involve classification systems constrained by measurement acquisition budget.
+How should we combine opinions (or beliefs) about hidden truths (or uncertain future events) furnished by several individuals with potentially diverse information sets into a single group judgment for decision or policy-making purposes? This has been a fundamental question across disciplines for a long time (Surowiecki [2005]).
+In spite of the many great successes of deep learning, efficient optimization of deep networks remains a challenging open problem due to the complexity of the model calculations, the non-convex nature of the implied objective functions, and their inhomogeneous curvature [6].
+Summarizing large data sets using pairwise co-occurrence frequencies is a powerful tool for data mining.
+For many problems in information retrieval and learning to rank, the performance of a predictor is evaluated based on the combination of predictions it makes for multiple variables.
+Combinatorial optimization [16] has many real-world applications.
+Two grand challenges in artificial intelligence research have been to build models that can make multiple computational steps in the service of answering a question or completing a task, and models that can describe long term dependencies in sequential data.
+Unsupervised learning seeks to induce good latent representations of a data set.
+Subspace clustering was originally proposed to solve very specific computer vision problems having a union-of-subspace structure in the data, e.
+Risk-sensitive optimization considers problems in which the objective involves a risk measure of the random cost, in contrast to the typical expected cost objective.
+A variety of tasks in machine learning can be formulated in the form of an energy minimization problem, known also as maximum a posteriori (MAP) or maximum likelihood estimation (MLE) inference in an undirected graphical models (related to Markov or conditional random fields).
+Statistical classification, a core task in many modern data processing and prediction problems, is the problem of predicting labels for a given feature vector based on a set of training data instances containing feature vectors and their corresponding labels.
+In many data-rich domains such as computer vision, neuroscience and social networks consisting of multi-modal and multi-relational data, tensors have emerged as a powerful paradigm for handling the data deluge.
+In perceptual decision making participants have to identify a noisy stimulus.
+In many applications we are interested in computing similarities between structured objects such as graphs.
+Non-linear Measurements.
+The success of deep learning is to a large part based on advanced and efficient input representations [1, 2, 3, 4].
+In large-scale Bayesian learning, diffusion based sampling methods have become increasingly popular.
+The asynchronous parallel optimization recently received many successes and broad attention in machine learning and optimization [Niu et al.
+Markov chain Monte Carlo sampling is among the most general methods for probabilistic inference.
+Sparse learning with convex regularization has been successfully applied to a wide range of applications including marker genes identification [19], face recognition [22], image restoration [2], text corpora understanding [9] and radar imaging [20].
+Prediction algorithms studied in this paper belong to the class of Venn–Abers predictors, introduced in [1].
+Parameter estimation of probabilistic models on discrete space is a popular and important issue in the fields of machine learning and pattern recognition.
+Many studies and theories in neuroscience posit that high-dimensional populations of neural spike trains are a noisy observation of some underlying, low-dimensional, and time-varying signal of interest.
+Variational inference is a computationally efficient approach for approximating posterior distributions.
+Causal discovery is the process to identify the causal relationships among a set of random variables.
+The majority of available data in modern machine learning applications come in a raw and unlabeled form.
+Over the last few years, heuristics for non-convex optimization have emerged as one of the most fascinating phenomena for theoretical study in machine learning.
+We give general conditions for the convergence of the EM method for high-dimensional estimation.
+Scaling up nonlinear component analysis has been challenging due to prohibitive computation and memory requirements.
+Consider the common compressed sensing (CS) model yi = hai , x∗ i + σεi , i = 1, .
+Stochastic variational inference has emerged as a promising and flexible framework for performing large scale approximate inference in complex probabilistic models.
+The classic multi-armed bandit (MAB) problem, generally attributed to the early work of Robbins (1952), poses a generic online decision scenario in which an agent must make a sequence of choices from a fixed set of options.
+Undirected graphical models, or Markov random fields [13], have been extensively studied and applied in fields ranging from computational biology [15, 28], to natural language processing [16, 20] and computer vision [9, 17].
+Control of non-linear dynamical systems with continuous state and action spaces is one of the key problems in robotics and, in a broader context, in reinforcement learning for autonomous agents.
+Convolutional neural networks (CNNs) (LeCun et al.
+The reinforcement learning problem in Markov decision processes (MDPs) involves an agent using its observed rewards to learn an optimal policy that maximizes its expected total reward for a given task.
+Given a high-dimensional dataset YD×N = (y1 , .
+A firm that relies on the ability to make difficult predictions can gain a lot from a large collection of data.
+Gaussian process (GP) regression models have become a standard tool in Bayesian signal estimation due to their expressiveness, robustness to overfitting and tractability [1].
+Bandit with mixing arms.
+We consider the problem of classification of a binary response given p covariates.
+Learning generative models of sequences is a long-standing machine learning challenge and historically the domain of dynamic Bayesian networks (DBNs) such as hidden Markov models (HMMs) and Kalman filters.
+Independent Component Analysis refers to a class of methods aiming at recovering statistically independent signals by observing their unknown linear combination.
+Inverse optimal control (IOC) [13], also known as inverse reinforcement learning [18, 1] and inverse planning [3], has become a powerful technique for learning to control or make decisions based on expert demonstrations [1, 20].
+Markov chain Monte Carlo (MCMC) has become a defacto tool for Bayesian posterior inference.
+Neural circuits can be reconstructed by analyzing 3D brain images from electron microscopy (EM).
+Encoding signals or building similarity kernels that are invariant to the action of a group is a key problem in unsupervised learning, as it reduces the complexity of the learning task and mimics how our brain represents information invariantly to symmetries and various nuisance factors (change in lighting in image classification and pitch variation in speech recognition) [1, 2, 3, 4].
+In undirected graphical models, maximum likelihood learning is intractable in general.
+A fundamental primitive in Bayesian learning is the ability to sample from the posterior distribution.
+Generative models have become ubiquitous in machine learning and statistics and are now widely used in fields such as bioinformatics, computer vision, or natural language processing.
+We consider a general problem that is pervasive in machine learning, namely optimization of an empirical or regularized convex risk function.
+The discovery of matched instances in different domains is an important task, which appears in natural language processing, information retrieval and data mining tasks such as finding the alignment of cross-lingual sentences [1], attaching tags to images [2] or text documents [3], and matching user identifications in different databases [4].
+In this paper we consider a primal-dual pair of structured convex optimization problems which has in several variants of varying degrees of generality attracted a lot of attention in the past few years in the machine learning and optimization communities [4, 22, 20, 23, 21, 27].
+A number of problems in Computer Vision and Machine Learning involve searching for a set of bounding boxes or rectangular windows.
+Deep Neural Networks (DNN) have substantially pushed the state-of-the-art in a wide range of tasks, especially in speech recognition [1, 2] and computer vision, notably object recognition from images [3, 4].
+Object detection is one of the most foundational tasks in computer vision [21].
+There are two roads to an accurate AI system today: (i) gather a huge amount of labeled training data [1] and do supervised learning [2]; or (ii) use crowdsourcing to directly perform the task [3, 4].
+As a simple and intuitive representation, the Euclidean space <d has been widely used in various learning tasks.
+Neural associative memories with exponential storage capacity and large (potentially linear) fraction of error-correction guarantee have been the topic of extensive research for the past three decades.
+Mixture models play a central role in machine learning and statistics, with diverse applications including bioinformatics, speech, natural language, and computer vision.
+Learning the structure of a Bayesian network from data is NP-hard [2].
+In recent years, sparse and low rank learning has been a hot research topic and leads to a wide variety of applications in signal/image processing, statistics and machine learning.
+Bandit convex optimization [11, 5] is the following online learning problem.
+Decentralized computation and estimation have many applications in sensor and peer-to-peer networks as well as for extracting knowledge from massive information graphs such as interlinked Web documents and on-line social media.
+Statistical model criticism or checking1 is an important part of a complete statistical analysis.
+Long Short-Term Memory (LSTM) networks [1, 2] are recurrent neural networks (RNNs) initially designed for sequence processing.
+A directed acyclic graph (DAG) G(V, E) defines a partial order on V where u precedes v if there is a directed path from u to v.
+Bayesian methods are popular for their success in analyzing complex data sets.
+Recurrent Neural Networks (RNNs) have been used for learning functions over sequences from examples for more than three decades [3].
+Recently there has been a hike of interest in automatically generating natural language descriptions for images in the research of computer vision, natural language processing, and machine learning (e.
+The benefits of using the Stochastic Gradient Descent (SGD) scheme for learning could not be stressed enough.
+Deep networks have proven extremely successful across a broad range of applications.
+A common task in supervised learning is to select the model that best fits the data.
+The goal of disease progression modeling is to learn a model for the temporal evolution of a disease from sequences of clinical measurements obtained from a longitudinal sample of patients.
+The recent success of deep feature learning in the supervised setting has inspired renewed interest in feature learning in weakly supervised and unsupervised settings.
+Kernel methods provide an elegant and effective framework to develop nonparametric statistical approaches to learning [1].
+In a variety of applications, one needs to process data of rich structure that can be conveniently represented by a hypergraph, where associations of the data items, represented by vertices, are represented by hyperedges, i.
+Truly intelligent systems can learn and make decisions without human intervention.
+Density ridges [10, 22, 15, 6] are one-dimensional curve-like structures that characterize high density regions.
+Developing learning algorithms for distributed compositional semantics of words has been a longstanding open problem at the intersection of language understanding and machine learning.
+We use the term “active learning” to refer to algorithms that employ adaptive data collection in order to accelerate machine learning.
+Online learning in stochastic environments is a sequential decision problem where in each time step a learner chooses an action from a given finite set, observes some random feedback and receives a random payoff.
+The quintessential scientific question is whether an unknown object has some property, i.
+Trace regression models of the form yi = tr(Xi⊤ Σ∗ ) + εi , i = 1, .
+Tractable learning [1] is a promising new machine learning paradigm that focuses on learning probability distributions that support efficient querying.
+Orthogonal NMF The success of Nonnegative Matrix Factorization (NMF) in a range of disciplines spanning data mining, chemometrics, signal processing and more, has driven an extensive practical and theoretical study [1, 2, 3, 4, 5, 6, 7, 8].
+Empirical risk minimization (ERM) is a domininant framework for supervised machine learning, and a key component of many learning algorithms.
+Embedding structured data, such as graphs, in geometric spaces, is a central problem in machine learning.
+Online learning is a well-established learning paradigm which has both theoretical and practical appeals.
+Over the years, deep learning approaches (see [5, 26] for survey) have shown great success in many visual perception problems (e.
+Computationally demanding simulators are used across the full spectrum of scientific and industrial applications, whether one studies embryonic morphogenesis in biology, tumor growth in cancer research, colliding galaxies in astronomy, weather forecasting in meteorology, climate changes in the environmental science, earthquakes in seismology, market movement in economics, turbulence in physics, brain functioning in neuroscience, or fabrication processes in industry.
+We start with a general discussion of the tension between sample size and computational efficiency in statistical and learning problems.
+Convolutional neural networks (CNNs) [15] are neural networks that can make use of the internal structure of data such as the 2D structure of image data through convolution layers, where each computation unit responds to a small region of input data (e.
+Suppose we are given a response vector y = [yi ]1≤i≤m generated from a quadratic transformation of an unknown object x ∈ Rn /Cn , i.
+Many modern applications of neural networks have to deal with data represented, or representable, as very large sparse vectors.
+Markov chains are one of the workhorses of stochastic modeling, finding use across a variety of applications – MCMC algorithms for simulation and statistical inference; to compute network centrality metrics for data mining applications; statistical physics; operations management models for reliability, inventory and supply chains, etc.
+As the machine learning (ML) community continues to accumulate years of experience with live systems, a wide-spread and uncomfortable trend has emerged: developing and deploying ML systems is relatively fast and cheap, but maintaining them over time is difficult and expensive.
+One of the most challenging problems in large-scale machine learning is how to parallelize the training of large models that use a form of stochastic gradient descent (SGD) [1].
+Principal component analysis (PCA) is a tool for providing a low-rank approximation to a data matrix D 2 Rn⇥d , with the aim of reducing dimension or capturing the main directions of variation in the data.
+The goal of visual texture synthesis is to infer a generating process from an example texture, which then allows to produce arbitrarily many new samples of that texture.
+Detecting the emergence of abrupt change-points is a classic problem in statistics and machine learning.
+Accurate recovery of structured sparse signal/parameter vectors from noisy linear measurements has been extensively studied in the field of compressed sensing, statistics, etc.
+Convolutional neural networks, trained end-to-end, have been shown to substantially outperform previous approaches to various supervised learning tasks in computer vision (e.
+Max-margin learning has been effective on learning discriminative models, with many examples such as univariate-output support vector machines (SVMs) [5] and multivariate-output max-margin Markov networks (or structured SVMs) [30, 1, 31].
+Bayesian nonparametric (BNP) stochastic processes are streaming priors – their unique feature is that they specify, in a probabilistic sense, that the complexity of a latent model should grow as the amount of observed data increases.
+What happens when players in a game interact with one another, all of them acting independently and selfishly to maximize their own utilities? If they are smart, we intuitively expect their utilities — both individually and as a group — to grow, perhaps even to approach the best possible.
+Statistical learning and stochastic optimization with exp-concave loss functions captures several fundamental problems in statistical machine learning, which include linear regression, logistic regression, learning support-vector machines (SVMs) with the squared hinge loss, and portfolio selection, amongst others.
+Recurrent neural networks (RNNs) are powerful tools for modeling sequential data, yet training them by back-propagation through time [37, 27] can be difficult [9].
+Clustering items according to some notion of similarity is a major primitive in machine learning.
+Generalized Linear Models (GLMs) play a crucial role in numerous statistical and machine learning problems.
+Multi-label classification, where each instance can belong to multiple labels simultaneously, has significantly attracted the attention of researchers as a result of its various applications, ranging from document classification and gene function prediction, to automatic image annotation.
+In recommendation systems and revenue management, it is important to predict preferences on items that have not been seen by a user or predict outcomes of comparisons among those that have never been compared.
+Principal components analysis constructs a low dimensional subspace of the data such that projection of the data onto this subspace preserves as much information as possible (or equivalently maximizes the variance of the projected data).
+Recurrent neural networks (RNNs) offer a compelling tool for processing natural language input in a straightforward sequential manner.
+Decision making within the Markov decision process (MDP) framework typically involves the minimization of a risk-neutral performance objective, namely the expected total discounted cost [3].
+Multi-party computation (MPC) is a generic framework where multiple parties share their information in an interactive fashion towards the goal of computing some functions, potentially different at each of the parties.
+In recent years, there has been an increasing appreciation of the shared mathematical foundations between prediction markets and a variety of techniques in machine learning.
+Due to the development of advanced warning systems, cameras are available onboard of almost every new car produced in the last few years.
+Logistic regression is one of the most frequently used classification methods [1].
+Extensive-form imperfect-information games are a general model for strategic interaction.
+Dirichlet process mixture models (DPMM) have been widely used for clustering data Neal (1992); Rasmussen (2000).
+The computational burden of solving high dimensional regularized regression problem has lead to a vast literature in the last couple of decades to accelerate the algorithmic solvers.
+Personalized medicine has long been a critical application area for machine learning [1–3], in which automated decision making and diagnosis are key components.
+In time series prediction, tracking, and filtering problems, a learner sees a stream of (possibly noisy, vector-valued) data and needs to predict the future path.
+Machine learning applications often require efficient statistical procedures to process potentially massive amount of high dimensional data.
+Recent work in materials design used neural networks to predict the properties of novel molecules by generalizing from examples.
+Graphical models such as Bayesian networks, Markov random fields and deep generative models provide a powerful framework for reasoning about complex dependency structures over many variables [see e.
+Deep models, understood as multilayer modular networks, have been gaining significant interest from the machine learning community, in part because of their ability to obtain state-of-the-art performance in a wide variety of tasks.
+Inference tasks encountered in natural language processing, graph inference and manifold learning employ the singular value decomposition (SVD) as a first step to reduce dimensionality while retaining useful structure in the input.
+Diffusion networks capture the underlying mechanism of how events propagate throughout a complex network.
+In machine learning applications, direct sampling with the entire large-scale dataset is computationally infeasible.
+Computer-assisted education promises open access to world class instruction and a reduction in the growing cost of learning.
+A central problem in systems neuroscience is to build flexible and accurate models of the sensory encoding process.
+We consider minimization of functions of form n X  −1 φi x⊤ P (w) = n i w + R (w) i=1 where the convex φi corresponds to a loss of w on some data xi , R is a convex regularizer and P is µ strongly convex, so that P (w′ ) ≥ P (w) + hw′ − w, ▽P (w)i + µ2 kw′ − wk2 .
+The task of inferring a hidden dynamic state based on partial noisy observations plays an important role within both applied and natural domains.
+Semantic segmentation is a technique to assign structured semantic labels—typically, object class labels—to individual pixels in images.
+A myriad of probabilistic logic languages have been proposed in recent years [5, 12, 17].
+In machine learning and related areas we often need to optimise multiple performance measures, such as per-class classification accuracies, precision and recall in information retrieval, etc.
+Structured output prediction has been an important topic in machine learning.
+Graphical Models (GMs) provide a useful representation for reasoning in a number of scientific disciplines [1, 2, 3, 4].
+Non-linear vector-valued transforms of the form, f (x, M) = s(Mx), where s is an elementwise nonlinearity, x is an input vector, and M is an m × n matrix of parameters are building blocks of complex deep learning pipelines and non-parametric function estimators arising in randomized kernel methods [20].
+Splitting methods such as ADMM [1, 2, 3] have recently become popular for solving problems in distributed computing, statistical regression, and image processing.
+Differential Privacy.
+Developing automated yet practical approaches to Bayesian inference is a problem that has attracted considerable attention within the probabilisitic machine learning community (see e.
+We study inference on factor graphs using Gibbs sampling, the de facto Markov Chain Monte Carlo (MCMC) method [8, p.
+Generalization of bounded policy iteration (BPI) to ﬁnitely-nested interactive partially observable Markov decision processes (I-POMDP) [1] is currently the leading method for inﬁnite-horizon selfinterested multiagent planning and obtaining ﬁnite-state controllers as solutions.
+In the past a few years, deep learning has been very successful in addressing many aspects of visual perception problems such as image classification, object detection, face recognition [1, 2, 3], to name a few.
+Policy gradient algorithms maximize the expectation of cumulative reward by following the gradient of this expectation with respect to the policy parameters.
+Decision trees and forests [5, 21, 4] have a long and rich history in machine learning [10, 7].
+The hidden Markov model (HMM) [1, 2] is widely used to segment sequential data into interpretable discrete states.
+Subset selection is to select a subset of size k from a total set of n variables for optimizing some criterion.
+We are interested in the problem of learning from intractable supervision.
+Classical supervised learning problems, such as binary and multiclass classification, share a number of characteristics.
+In the 19th century, Helmholtz proposed that perception could be understood as unconscious inference [1].
+Syntactic constituency parsing is a fundamental problem in linguistics and natural language processing that has a wide range of applications.
+We consider the problem of learning to predict a non-negative measure over a finite set.
+Multidimensional recurrent neural networks (MDRNNs) constitute an efficient architecture for building a multidimensional context into recurrent neural networks [1].
+Deep learning has led to remarkable breakthroughs in learning hierarchical representations from images.
+Visual systems have perfected the art of sensing through billions of years of evolution.
+The last few years have seen convolutional neural networks (CNNs) emerge as an indispensable tool for computer vision.
+Hierarchical clustering is an important method in cluster analysis where a data set is recursively partitioned into clusters of successively smaller size.
+Our visual system is remarkably fast and accurate.
+Many datasets in contemporary scientific applications possess some form of network structure [20].
+A wide variety of research disciplines, including computer science, economic, biology and social science, involve causality analysis of a network of interacting random processes.
+The multi-armed bandit (MAB) problem is perhaps the simplest example of a learning problem that exposes the tension between exploration and exploitation.
+Boosting and support vector machines (SVM) are widely popular techniques for learning classifiers.
+Time series, such as neural recordings, economic observations and biological imaging movies, are ubiquitous, containing rich information about the temporal patterns of physical quantities under certain conditions.
+In recent years, convolutional neural networks (CNNs) have achieved great success to solve many problems in machine learning and computer vision.
+Low rank matrix completion refers to the problem of recovering a low rank matrix by observing the values of only a tiny fraction of its entries.
+In recent years, there have been many exciting advances in building an artificial agent, which can be trained with one learning algorithm, to solve many relatively large-scale, complicated tasks (see, e.
+Human-decision making involves decomposing a task into a course of action.
+(Weighted) Minwise Hashing (or Sampling), [2, 4, 17] is the most popular and successful randomized hashing technique, commonly deployed in commercial big-data systems for reducing the computational requirements of many large-scale applications [3, 1, 25].
+In recent years, deep neural networks have been shown to perform extremely well on a variety of tasks including classification [21], semantic segmentation [13], machine translation [27] and speech recognition [16].
+The functions of the brain likely rely on the concerted interaction of its microscopic, mesoscopic and macroscopic systems.
+We study the reinforcement learning (RL) problem where an agent interacts with an unknown environment.
+The following optimization problem, which minimizes the sum of cost functions over samples from a finite training set, appears frequently in machine learning: n 1X fi (x), min F (x) ≡ n i=1 (1) where n is the sample size, and each fi : Rd → R is the cost function corresponding to the i-th sample data.
+Recent successes in deep learning have shown that neural networks trained by first-order gradient based optimization are capable of achieving amazing results in diverse domains like computer vision, speech recognition, and language modelling [7].
+Learning and anticipation are central features of cerebellar computation and function (Bastian, 2006): the cerebellum learns from experience and is able to anticipate events, thereby complementing a reactive feedback control by an anticipatory feed-forward one (Hofstoetter et al.
+Word embeddings are a powerful approach for analyzing language (Bengio et al.
+Distance metric learning aims to learn an embedding representation of the data that preserves the distance between similar data points close and dissimilar data points far on the embedding space [15, 30].
+Optimization of convex functions over a convex domain is a well studied problem in machine learning, where a variety of algorithms exist to solve the problem efficiently.
+More and more data for machine learning nowadays are acquired from distributed, unmonitored and strategic data sources and the quality of these collected data is often unverifiable.
+Collaborative preference completion is the task of jointly learning bipartite (or dyadic) preferences of set of entities for a shared list of items, e.
+A simulator-based model is a data-generating process described by a computer program, usually with some free parameters we need to learn from data.
+Modeling long-term behavior is a key challenge in many learning problems that require complex decision-making.
+Interest in recurrent neural networks (RNNs) has greatly increased in recent years, since larger training databases, more powerful computing resources, and better training algorithms have enabled breakthroughs in both processing and modeling of temporal sequences.
+The multivariate normal distribution is a fundamental building block in many machine learning algorithms, and its well-known density can compactly be written as   1 2 (1) p(x | µ, Σ) ∝ exp − distΣ (µ, x) , 2 where dist2Σ (µ, x) denotes the Mahalanobis distance for covariance matrix Σ.
+The rate with which a learning algorithm converges as more data comes in play a central role in machine learning.
+Traditionally, machine learning is concerned with predictions: assuming data is generated from some model, the goal is to predict the behavior of the model on data similar to that observed.
+Tensor modeling is widely used for capturing the higher order relations between several data sources.
+Recurrent neural networks (RNNs) have been shown to achieve promising results on many difficult sequential learning problems [1, 2, 3, 4, 5].
+The use of deep feedforward neural networks in machine learning applications has become widespread and has drawn considerable research attention in the past few years.
+Consider problems where we need to adaptively make a sequence of decisions while taking into account the outcomes of previous decisions.
+The problem of establishing maps (e.
+Many of machine learning’s successes have come from supervised learning, which typically involves employing annotators to label large quantities of data per task.
+We are in the climax of driverless vehicles research where the perception and learning are no longer trivial problems due to the transition from controlled test environments to real world complex interactions with other road users.
+With the availability of cheap computing power, modern cameras can rely on computational postprocessing to extend their capabilities under the physical constraints of existing sensor technology.
+We propose the following model for multi-way graph partitioning.
+Clustering is an important problem which is prevalent in a variety of real world problems.
+The optimization of an unknown function based on noisy observations is a fundamental problem in various real world domains, e.
+Stochastic variational inference (Blei et al.
+Decision making with partial feedback, motivated by applications including personalized medicine [21] and content recommendation [16], is receiving increasing attention from the machine learning community.
+Recently, deep convolutional neural networks [17, 26, 30] have propelled unprecedented advances in artificial intelligence including object recognition, speech recognition, and image captioning.
+Every supervised learning algorithm with the ability to generalize from training examples to unseen data points has some type of inductive bias [5].
+Variational inference is an umbrella term for algorithms that cast Bayesian inference as optimization [10].
+In this paper, we propose a general framework for classification of sparse and irregularly-sampled time series.
+The covariance matrix adaptation evolution strategy, CMA-ES [Hansen and Ostermeier, 2001], is recognized as one of the most competitive derivative-free algorithms for real-valued optimization [Beyer, 2007; Eiben and Smith, 2015].
+In recent years, tensor decomposition has emerged as a powerful tool to solve many challenging problems in unsupervised [1], supervised [18] and reinforcement learning [4].
+Perception problems rarely exist in a vacuum.
+Deep neural networks (DNN), especially deep Convolutional Neural Networks (CNN), made remarkable success in visual tasks [1][2][3][4][5] by leveraging large-scale networks learning from a huge volume of data.
+For high-dimensional structured estimation problems [3, 15], considerable advances have been made in accurately estimating a sparse or structured parameter θ ∈ Rp even when the sample size n is far smaller than the ambient dimensionality of θ, i.
+We consider the problem of sampling-based planning in a Markov decision process (MDP) when a generative model (oracle) is available.
+Canonical correlation analysis (CCA, [1]) and its extensions are ubiquitous techniques in scientiﬁc research areas for revealing the common sources of variability in multiple views of the same phenomenon.
+Clustering is a fundamental task in machine learning that aims to assign closely related entities to the same group.
+Visual Question Answering (VQA) [2, 6, 14, 15, 27] has emerged as a prominent multi-discipline research problem in both academia and industry.
+Recommendation systems have emerged as a crucial feature of many electronic commerce systems.
+Gibbs sampling, or Glauber dynamics, is a Markov chain Monte Carlo method that draws approximate samples from multivariate distributions that are difficult to sample directly [9; 15, p.
+Area Under the ROC Curve (AUC) [8] is a widely used metric for measuring classification performance.
+Probabilistic programming systems (PPS) allow probabilistic models to be represented in the form of a generative model and statements for conditioning on data [4, 9, 10, 16, 17, 29].
+Recurrent neural networks (RNNs) are able to represent long-term dependencies in sequential data, by adapting and propagating a deterministic hidden (or latent) state [5, 16].
+Determinantal Point Processes (DPPs) are discrete probability models over the subsets of a ground set of N items.
+Reinforcement learning (RL) studies how an agent can maximize its cumulative reward in a previously unknown environment, which it learns about through experience.
+Similarities measure the closeness of connections between objects and usually are reflected by distances.
+Humans naturally perceive the world as being structured into different objects, their properties and relation to each other.
+Numerical solvers for differential equations are essential tools in almost all disciplines of applied mathematics, due to the ubiquity of real-world phenomena described by such equations, and the lack of exact solutions to all but the most trivial examples.
+Classification with abstention is a key learning scenario where the algorithm can abstain from making a prediction, at the price of incurring a fixed cost.
+In Bayesian optimization [19] (BO), we wish to optimize a derivative-free expensive-to-evaluate function f with feasible domain A ⊆ Rd , min f (x), x∈A with as few function evaluations as possible.
+Generating realistic images from informal descriptions would have a wide range of applications.
+The trade-off between exploration and exploitation has been an ever-present trope in the online learning literature.
+Recurrent neural networks (RNNs) have become to be the generative models of choice for sequential data (Graves, 2012) with impressive results in language modeling (Mikolov, 2010; Mikolov and Zweig, 2012), speech recognition (Bahdanau et al.
+Probabilistic inference in high-order discrete graphical models has been an ongoing computational challenge, and all existing methods rely on exploiting specific structure: either low-treewidth or pairwise graphical models, or functional properties of the distribution such as log-submodularity.
+Practical data sets generally have missing or corrupted entries.
+Recurrent neural networks, such as the Long Short-Term Memory (LSTM) [11], have proven to be powerful sequence learning models [6, 18].
+Consider the following nonconvex and nonsmooth constrained optimization problem N 1 X gi (z) + g0 (z) + p(z), min f (z) := z∈Z N i=1 (1.
+With the expansion of online social platforms, user-generated content has become increasingly influential.
+Bayesian optimization (BO), as applied to so-called blackbox objectives, is a modernization of 197080s statistical response surface methodology for sequential design [3, 14].
+Procedural modeling, or the use of randomized procedures to generate computer graphics, is a powerful technique for creating visual content.
+Representing and reasoning about objects, relations and physics is a “core” domain of human common sense knowledge [25], and among the most basic and important aspects of intelligence [27, 15].
+In the last two decades, a collection of highly related dynamic models including observable operator models (OOMs) [1–3], predictive state representations [4–6] and reduced-rank hidden Markov models [7, 8], have become powerful and increasingly popular tools for analysis of dynamic data.
+k-means++ (Arthur & Vassilvitskii, 2007) is one of the most widely used methods to solve k-Means clustering.
+An essential element of supervised learning systems is the representation of input data.
+Parallel optimization algorithms often feature synchronization steps: all processors wait for the last to finish before moving on to the next major iteration.
+There is a wide range of problems in applied machine learning from web data mining [1] to protein function prediction [2] where the input space is a space of graphs.
+GMs express factorization of the joint multivariate probability distributions in statistics via graph of relations between variables.
+As machine learning becomes more widely adopted in security and in security-sensitive tasks, it is important to consider what happens when some aspect of the learning process or the training data is compromised [1–4].
+Depth from a single RGB image is a fundamental problem in vision.
+Since its early beginning [24, 34], the PAC-Bayesian theory claims to provide “PAC guarantees to Bayesian algorithms” (McAllester [24]).
+In recent years Optimal Transport (OT) [1] has received a lot of attention in the machine learning community [2, 3, 4, 5].
+Action recognition in video is an intensively researched area, with many recent approaches focused on application of Convolutional Networks (ConvNets) to this task, e.
+Social media and social networking sites are increasingly used by people to express their opinions, give their “hot takes”, on the latest breaking news, political issues, sports events, and new products.
+High-dimensional data, which are ubiquitous in computer vision, image processing, bioinformatics and social networks, often lie in low-dimensional subspaces corresponding to different categories they belong to [1, 2, 3, 4, 5, 6].
+“If we use, to achieve our purposes, a mechanical agency with whose operation we cannot interfere effectively .
+Combining the outputs of multiple predictors is in many cases of interest a successful strategy to improve the capabilities of artificial intelligence systems, ranging from agent architectures [19], to committee learning [13, 15, 8, 9].
+Timely clinical state estimation can significantly improve the quality of care for patient’s by informing clinicians of patient’s that have entered a high-risk clinical state.
+Restricted Boltzmann machines (RBMs) are two-layer latent variable models that use a layer of hidden units h to model the distribution of visible units v [Smolensky, 1986, Hinton, 2002].
+Scalable optimization methods are critical for many machine learning applications.
+The Multi-Armed Bandit (MAB) game is one where in each round the player chooses an action, also referred to as an arm, from a pre-determined set.
+Latent Dirichlet Allocation (LDA) [3] recently emerged as the dominant framework for topic modeling as well as many other applications with latent groups.
+The classical Multi-armed Bandit (MAB) problem provides a framework to reason about sequential decision settings, but specifically where the learner’s chosen decision is intimately tied to information content received as feedback.
+Arithmetic circuits (ACs) have been a central representation for probabilistic graphical models, such as Bayesian networks and Markov networks.
+Deep generative models (DGMs) characterize the distribution of observations with a multilayered structure of hidden variables under nonlinear transformations.
+In this paper, we provide a statistical framework for performing nonparametric regression over latent variable models.
+There is currently a wide gap between theory and practice of active learning with oracle interaction.
+Typical inference queries to make predictions and learn probabilistic models from data include the maximum a posteriori (MAP) inference task, which computes the most likely assignment of a set of variables, as well as the marginal inference task, which computes the probability of an event according to the model.
+We consider the Streaming Submodular Cover (SSC) problem, where we seek to find the smallest subset that achieves a certain utility, as measured by a monotone submodular function.
+Approximate inference, that is approximating posterior distributions and likelihood functions, is at the core of modern probabilistic machine learning.
+Modeling nonlinear dynamical systems using data is fundamental in a variety of engineering and scientific fields.
+Numerical integration, or quadrature, is a fundamental task in the construction of various statistical and machine learning algorithms.
+Algorithm design often requires making simplifying assumptions about the input data.
+Structured prediction has become prevalent with wide applications in Natural Language Processing (NLP), Computer Vision, and Bioinformatics to name a few, where one is interested in outputs of strong interdependence.
+Consider a binary classification problem, in which we are given an ensemble of individual classifiers to aggregate into the most accurate predictor possible for data falling into two classes.
+The task of image restoration is to recover a clean image from its corrupted observation, which is known to be an ill-posed inverse problem.
+Given a large collection of text data, e.
+The k-means problem is to find k centroids to minimise the mean distance between samples and their nearest centroids.
+Joint matrix decomposition problems appear frequently in signal processing and machine learning, with notable applications in independent component analysis [7], canonical correlation analysis [20], and latent variable model estimation [5, 4].
+Perhaps the most common way to sell items is using a “posted price” mechanism in which the seller publishes the price of an item in advance, and buyers that wish to obtain the item decide whether to acquire it at the given price or to forgo the purchase.
+Learning programs from examples is a central problem in artificial intelligence, and many recent approaches draw on techniques from machine learning.
+Recurrent neural networks (RNNs) are artificial neural networks where connections between units can form cycles.
+Today’s robots are required to operate in variable and often unknown environments.
+Our brain perceives the external world with multiple sensory modalities, including vision, audition, olfaction, tactile, vestibular perception and so on.
+Tensors, a.
+A fundamental goal of sensory neuroscience involves building accurate neural encoding models that predict the response of a sensory area to a stimulus of interest.
+Following the seminal work of H OGWILD ! [17], many studies have demonstrated that near linear speedups are achievable on several machine learning tasks via asynchronous, lock-free implementations [25, 13, 8, 16].
+Word embeddings are dense vector representations of words with semantic and relational information.
+Kernel methods are widely used in nonlinear learning [8], but they are computationally expensive for large datasets.
+Natural perception can extract complete interpretations of sensory data in a coherent and efficient manner.
+Discrete choice models describe and predict decisions between distinct alternatives.
+Frequently, tasks in machine learning can be expressed as the problem of optimizing an objective function f (✓) defined over some domain ✓ 2 ⇥.
+Knowledge of the underlying parameters of the spreading model is crucial for understanding the global properties of the dynamics and for development of effective control strategies for an optimal dissemination or mitigation of diffusion [1, 2].
+Partial monitoring (PM) games are repeated games played between a learner and an adversary over discrete time points.
+Many problems in artificial intelligence (AI) and machine learning (ML) involve designing agents that interact with stochastic environments.
+Cleaning noise-corrupted data, i.
+As an important class of statistical models for exploring the interrelationship among a large number of random variables, undirected graphical models (UGMs) have enjoyed popularity in a wide range of scientific and engineering domains, including statistical physics, computer vision, data mining, and computational biology.
+We consider minimizing the average of m ( 2 convex functions: ) m 1 X min F (x) := fi (x) x2X m i=1 (1) where X ✓ Rd is a closed, convex set, and where the algorithm is given access to the following gradient (or subgradient in the case of non-smooth functions) and prox oracle for the components: ⇥ ⇤ hF (x, i, ) = fi (x), rfi (x), proxfi (x, ) (2) where ⇢ proxfi (x, ) = arg min fi (u) + u2X 2 kx uk 2 (3) A natural question is how to leverage the prox oracle, and how much benefit it provides over gradient access alone.
+Using reinforcement learning to train neural network controllers has recently led to rapid progress on a number of challenging control tasks [15, 17, 26].
+Clustering and the closely related problem of vector quantization are fundamental problems in machine learning and data mining.
+In recent years, Deep Neural Networks (DNNs), especially Convolutional Neural Networks (CNNs), have demonstrated highly competitive results on object recognition and image classification [1, 2, 3, 4].
+The mixed linear regression (MLR) [7, 9, 29] models each observation as being generated from one of the K unknown linear models; the identity of the generating model for each data point is also unknown.
+Policy search algorithms based on supervised learning from a computational or human “teacher” have gained prominence in recent years due to their ability to optimize complex policies for autonomous flight [16], video game playing [15, 4], and bipedal locomotion [11].
+Two-photon calcium imaging is a powerful technique for monitoring the activity of thousands of individual neurons simultaneously in awake, behaving animals [1, 2].
+Markov chains are a simple and incredibly rich tool for modeling, and act as a backbone in numerous applications—from Pagerank for web search to language modeling for machine translation.
+Gaussian graphical models describe well interactions in many real-world systems.
+Regret analysis is a general technique for designing and analyzing algorithms for sequential decision problems in adversarial or stochastic settings (Shalev-Shwartz, 2012; Bubeck and Cesa-Bianchi, 2012).
+In this paper, we investigate a new approach to reducing supervised learning to game playing.
+Let X ∈ <p and Y ∈ <q be random vectors, where p and q are positive integers.
+For solving a broad range of large-scale statistical learning problems, e.
+In stochastic bandit optimisation, we wish to optimise a payoff function f : X → R by sequentially querying it and obtaining bandit feedback, i.
+In classical statistical inference, we are typically interested in characterizing how more data points improve the accuracy, with little restrictions or considerations on computational aspects of solving the inference problem.
+Deep embedding methods aim at learning a compact feature embedding f (x) ∈ Rd from image x using a deep convolutional neural network (CNN).
+Deep networks [1, 2] continue to post impressive successes in a wide range of tasks, and the Rectified Linear Unit (ReLU) [3, 4] is arguably the most used simple nonlinearity.
+Function learning underlies many intuitive judgments, such as the perception of time, space and number.
+The recent success of supervised learning algorithms has been partially attributed to the large-scale datasets [16, 22] on which they are trained.
+Proteins perform most of the functions in the cells of living organisms, acting as enzymes to perform complex chemical reactions, recognizing foreign particles, conducting signals, and building cell scaffolds – to name just a few.
+Breakthroughs in modern technology have allowed more sequential data to be collected in higher resolutions.
+A common task in probabilistic modelling is to compute the distribution of f (X), given a measurable function f and a random variable X.
+Principal component analysis (PCA) aims to find a low rank subspace that best-approximates a data matrix Y ∈ Rd1 ×d2 .
+Recurrent neural networks (RNNs) are sequence-based models of key importance for natural language understanding, language generation, video processing, and many other tasks [1–3].
+Numerous problems in data analysis are formulated as the question of embedding high-dimensional metric spaces into “simpler" spaces, typically of lower dimension.
+Asynchronous parallel optimization has recently become a popular way to speedup machine learning algorithms using multiple processors.
+In biomedical image analysis, a fundamental problem is the segmentation of 3D images, to identify target 3D objects such as neuronal structures [1] and knee cartilage [15].
+Convolutionnal Neural Networks (CNN) have been very successful for many different tasks in computer vision.
+Clustering is a fundamental task in machine learning with widespread applications in data mining, computer vision, and social network analysis.
+Demand forecasting plays a central role in supply chain management, driving automated ordering, in-stock management, and facilities planning.
+One of the fundamental tasks in statistical learning is probability estimation.
+Given a proper convex cone K ⊂ Rn , let ψ : K 7→ R be an upper semi-continuous concave function.
+Object detection, tracking, and motion prediction are fundamental problems in computer vision, and predicting the effect of physical interactions is a critical challenge for learning agents acting in the world, such as robots, autonomous cars, and drones.
+Since the seminal work of Robbins [11], the multi-armed bandit has become an attractive framework for studying exploration-exploitation trade-offs inherent to tasks arising in online advertising, finance and other fields.
+During their browsing experience, users are constantly provided – without having asked for it – with clickable content spread over web pages.
+What is clutter? While it seems easy to make sense of a cluttered desk vs an uncluttered desk at a glance, it is hard to quantify clutter with a number.
+Optimizing an objective function is a central component of many algorithms in machine learning and engineering.
+It is now well-established that principal component analysis (PCA) is quite sensitive to outliers, with even a single corrupted data element carrying the potential of grossly biasing the recovered principal subspace.
+A key reason for the success of graphical models is the existence of fast algorithms that exploit the graph structure to perform inference, such as Pearl’s belief propagation [19] and related propagation algorithms [13, 16, 23] (which we refer to collectively as “message passing” algorithms), and variable elimination [27].
+Many real-world networks contain subsets of variables densely connected to one another, a property called modularity (Fig 1A); however, standard network inference methods do not incorporate this property.
+Cortical regions in the brain are anatomically connected, and the joint neural activity in connected regions are believed to underlie various perceptual and cognitive functions.
+Matrix completion has been a basis of many machine learning approaches for computer vision [6], recommender systems [21, 24], signal processing [19, 27], and among many others.
+Research on word embeddings has drawn significant interest in machine learning and natural language processing.
+In many important prediction problems from different areas of application (medicine, environmental monitoring, etc.
+Mathematics underpins all scientific disciplines.
+Over the past decade, the notion of embedding probability measures in a Reproducing Kernel Hilbert Space (RKHS) [1, 13, 18, 17] has gained a lot of attention in machine learning, owing to its wide applicability.
+Supervised learning, the task of inferring a function that predicts a target Y from a feature vector X = (X1 , .
+In this paper we propose a non-parametric pool-based active learning algorithm for general metric spaces, which outputs a nearest-neighbor classifier.
+Many applications require a predictor to make coherent decisions.
+The high computational complexity makes kernel methods unfeasible to deal with large-scale data.
+Obama was the first US president in history who successfully leveraged online social media in presidential campaigning, which has been popularized and become a ubiquitous approach to electoral politics (such as in the on-going 2016 US presidential election) in contrast to the decreasing relevance of traditional media such as TV and newspapers [1, 2].
+Visual question answering (VQA) is a new research direction as intersection of computer vision and natural language processing.
+State-of-the-art machine translation (MT) systems, including both the phrase-based statistical translation approaches [6, 3, 12] and the recently emerged neural networks based translation approaches [1, 5], heavily rely on aligned parallel training corpora.
+Knowledge bases are attracting considerable interest both from industry and academia [2, 6, 15, 10].
+The efficient reduction of a constrained convex optimization problem to a constrained linear optimization problem is an appealing algorithmic concept, in particular for large-scale problems.
+Based on the softmax representation, the probability of a variable y to take the value k ∈ {1, .
+Working with structured data is challenging.
+Recent advances in image modelling with neural networks [30, 26, 20, 10, 9, 28, 6] have made it feasible to generate diverse natural images that capture the high-level structure of the training data.
+Modeling non-stationary temporal data sources is a fundamental problem in signal processing, statistical data compression, quantitative finance and model-based reinforcement learning.
+Mapping neuroanatomy, in the pursuit of linking hypothesized computational models consistent with observed functions to the actual physical structures, is a long-standing fundamental problem in neuroscience.
+A Graphical Model (GM) describes a probability distribution over a set of random variables which factorizes over the edges of a graph.
+In everyday life we constantly face tasks we must perform in the presence of sensory uncertainty.
+A first order requirement in many estimation tasks is that the training and testing samples are from the same underlying distribution and the associated features are directly comparable.
+Large-scale recording technologies are revolutionizing the field of neuroscience [e.
+Human decision-making is not perfectly rational.
+Humans exhibit impressive abilities of intercepting moving targets as exemplified in sports such as baseball [6].
+Online learning is a sequential decision-making problem where learner repeatedly chooses an action in response to adversarially chosen losses for the available actions.
+Access to positive, negative and unlabeled examples is a standard assumption for most semisupervised binary classification techniques.
+Recent work [21] shows that it is often possible to construct an input mislabeled by a neural net by perturbing a correctly labeled input by a tiny amount in a carefully chosen direction.
+Complex networks emerge in a plethora of disciplines including computer science, social sciences, biology and etc.
+A fundamental problem in network science and machine learning is to discover structures in large, complex networks (e.
+Let G = (N , E) denote a connected undirected graph of N computing nodes, where N , {1, .
+Visual spatial attention refers to the narrowing of processing in the brain to particular objects in particular locations so as to mediate everyday tasks.
+Monte Carlo methods are the gold standard in Bayesian posterior inference due to their asymptotic convergence properties; however convergence can be slow in large models due to poor mixing.
+Many machine learning applications involve finding the minimizer of optimization problems of the form n X min F (w) := fi (w) + R(w) (1) w∈C i=1 where fi (w) is a smooth convex function, R(w) is a regularizer, and C ⊆ Rd is a convex constraint set (e.
+Linear models are one of the foundations of modern machine learning due to their strong learning guarantees and efficient solvers [Koltchinskii, 2011].
+As a central optimization problem with a wide variety of applications, online resource allocation problems have attracted a large body of research in networking, distributed computing, and electronic commerce.
+Tensors, or multidimensional arrays, are generalizations of matrices (from binary interactions) to high-order interactions between multiple entities.
+High dimensional problems where the regressor belongs to a small number of groups play a critical role in many machine learning and signal processing applications, such as computational biology and multitask learning.
+This work proposes a coding-theory inspired computation technique for speeding up computing linear transforms of high-dimensional data by distributing it across multiple processing units that compute shorter dot products.
+What kind of data should we use to train a supervised learner ? A recent result has shown that minimising the popular logistic loss over examples with linear classifiers (in supervised learning) is equivalent to the minimisation of the exponential loss over sufficient statistics about the class known as Rademacher observations (rados, [Nock et al.
+Collecting data from non-expert workers on crowdsourcing platforms such as Amazon Mechanical Turk, Zooinverse, Planet Hunters, etc.
+1.
+Over the past decade deep learning has achieved significant advances in many application areas [1].
+We present algorithms for stochastic structured prediction under bandit feedback that obey the following learning protocol: On each of a sequence of iterations, the learner receives an input, predicts an output structure, and receives partial feedback in form of a task loss evaluation of the predicted structure.
+Open-ended learning theory in cognitive psychology has been a topic of considerable interest for many researchers.
+Estimating entropies and divergences of probability distributions in a consistent manner is of importance in a number of problems in machine learning.
+Methods for online convex optimization (OCO) [28, 12] make it possible to optimize parameters sequentially, by processing convex functions in a streaming fashion.
+Factorization machines (FMs) [13, 14] are a supervised learning approach that can use second-order feature combinations efficiently even when the data is very high-dimensional.
+Many machine learning applications require dealing with data-sets having complex structures, e.
+Sparse Regularization This paper studies sparse linear regression problems of the form y = Φx0 + w, where x0 ∈ Rn is the unknown vector to estimate, supposed to be non-zero and sparse, w ∈ Rm is some additive noise and the design matrix Φm×n is in general rank deficient corresponding to a noisy underdetermined linear system of equations, i.
+The k-nearest neighbors (k-NN) algorithm [1, 2], and Nadarays-Watson estimation [3, 4] are the cornerstones of non-parametric learning.
+The power of joint learning in multiple tasks arises from the transfer of relevant knowledge across said tasks, especially from information-rich tasks to information-poor ones.
+Quantum computation is an emerging technology that utilizes quantum effects to achieve significant, and in some cases exponential, speed-ups of algorithms over their classical counterparts.
+The popular stochastic gradient methods are well suited for minimizing expected-value objective functions or the sum of a large number of loss functions.
+A fundamental challenge in understanding sensory data is learning to disentangle the underlying factors of variation that give rise to the observations [1].
+The Atari Reinforcement Learning research program [21] has highlighted a critical deficiency of practical reinforcement learning algorithms in settings with rich observation spaces: they cannot effectively solve problems that require sophisticated exploration.
+Density estimation is one of the fundamental problems in statistics.
+Energy efficiency is becoming one of the most important issues in our society.
+In many statistical inference problems, the task is to detect, from given data, a global structure such as low-rank structure or clustering.
+Thanks to the large amount of accessible training data and computational power of GPUs, deep learning models, especially convolutional neural networks (CNNs), have been successfully applied to various computer vision (CV) applications such as image classification [19], human face verification [20], object recognition, and object detection [7, 17].
+Many problems in science and engineering can be formulated as a sequential decision-making problem under uncertainty.
+Asynchronous parallel optimization received substantial successes and extensive attention recently, for example, [5, 25, 31, 33, 34, 37].
+Although the study of neural connectivity is over a century old, starting with pioneering neuroscientists who identified the importance of networks for determining brain function, most knowledge of anatomical neural network structure is limited to either detailed description of small subsystems [2, 9, 14, 26] or to averaged connectivity between larger regions [7, 21].
+Many of the major machine learning breakthroughs of the last decade have been catalyzed by the release of a new labeled training dataset.
+Understanding object motions and scene dynamics is a core problem in computer vision.
+Gaussian Processes (GPs) [1] are a flexible class of probabilistic models.
+Convolutional neural networks (CNNs) [1] are effective tools for image analysis [2], with most CNNs trained in a supervised manner [2, 3, 4].
+Document distances are a key component of many text retrieval tasks such as web-search ranking [24], book recommendation [16], and news categorization [25].
+Many modern classification systems, including internet applications (such as web-search engines, recommendation systems, and spam filtering) and security & surveillance applications (such as widearea surveillance and classification on large video corpora), face the challenge of prediction-time budget constraints [21].
+Many problems in computational sciences require to compare probability measures or histograms.
+Most modern computer vision systems follow a familiar architecture, processing inputs from lowlevel features up to task specific high-level features.
+Unsupervised learning is the task of learning structure from unlabelled examples.
+Probabilistic inference is one of the main building blocks for decision making under uncertainty.
+The basic machine learning problem of minimizing a regularizer plus a loss function comes in numerous different variations and names.
+In the past years, deep neural networks such as convolutional or recurrent ones have become highly popular for solving various prediction problems, notably in computer vision and natural language processing.
+Modeling often has two goals: first, to learn a flexible representation of complex high-dimensional data, such as images or speech recordings, and second, to find structure that is interpretable and generalizes to new tasks.
+Humans learn new concepts with very little supervision – e.
+A long tradition of research in social psychology recognizes volunteering as the hallmark of human altruistic action, aimed at improving the survival of a group of individuals living together [15].
+Although statistical learning theory mainly focuses on establishing universal rate bounds (i.
+Hierarchical models with multiple layers of latent variables are emerging as a powerful class of generative models of data in a range of domains, ranging from images to text [1, 18].
+Deep Neural Networks (DNNs) have substantially pushed Artificial Intelligence (AI) limits in a wide range of tasks (LeCun et al.
+An important first step in many neuroscience experiments is to train animals to perform a particular sensory, cognitive, or motor task.
+Access to positive, negative and unlabeled examples is a standard assumption for most semisupervised binary classification techniques.
+Recommender systems have been helpful to users for making decisions in diverse domains such as movies, wines, food, news among others [19, 23].
+Structured output prediction is ubiquitous in machine learning.
+Modern data analysis always addresses enormous data sets in recent years.
+We are interested in the class of problems that require the prediction of a structured output y ∈ Y given an input x ∈ X .
+The recently introduced sequence-to-sequence model has shown success in many tasks that map sequences to sequences, e.
+Multi-item, multi-bidder auctions have been studied extensively in economics, operations research, and computer science.
+Visual question-answering tasks provide a testbed to cultivate the synergistic proposals which handle multidisciplinary problems of vision, language and integrated reasoning.
+Automated techniques from statistics and machine learning are increasingly being used to make decisions that have important consequences on people’s lives, including hiring [24], lending [10], policing [25], and even criminal sentencing [7].
+The standard view of perceptual decision making across psychology and neuroscience is of a competitive process that accumulates sensory evidence for the choices up to a threshold (bound) that triggers the decision [1, 2, 3].
+Pattern recognition and models of associative memory [1] are closely related.
+Suppose that X ∈ Rn1 ×n2 is a rank-r matrix with r much smaller than n1 and n2 .
+We consider the problem of structural learning of Bayesian networks with bounded treewidth, adopting a score-based approach.
+Undirected probabilistic graphical models are widely used to explore and represent dependencies between random variables.
+Time series analysis is a central problem in many applications such as demand forecasting and climatology.
+A signed graph is a graph with positive and negative edge weights.
+Many situations in our daily life require us to make repeated decisions which result in some losses corresponding to our chosen actions.
+It is common in machine learning to encounter optimization problems involving millions of parameters and very large datasets.
+Over the past decade, exploiting low-dimensional structure in high-dimensional problems has become a highly active area of research in machine learning, signal processing, and statistics.
+Continuous dynamical systems theory lends itself as a framework for both qualitative and quantitative understanding of neural models [1, 2, 3, 4].
+Convolutional neural networks [19] offer an efficient architecture to extract highly meaningful statistical patterns in large-scale and high-dimensional datasets.
+The dueling bandit problem [1] is a variant of the classical multi-armed bandit (MAB) problem, where the feedback comes in the form of pairwise comparison.
+This work studies the problem of detecting the community structure of a dynamic network according to the framework of evolving graphs [3].
+In recent years, network data have appeared in a growing number of applications, such as online social networks, biological networks, and networks representing communication patterns.
+Variational inference (vi) is a technique for approximating the posterior distribution in probabilistic models (Jordan et al.
+Positive-unlabeled (PU) learning, where a binary classifier is trained from P and U data, has drawn considerable attention recently [1, 2, 3, 4, 5, 6, 7, 8].
+Matrix completion is the problem of recovering a low rank matrix from partially observed entries.
+Principal Components Analysis (PCA) is among the most frequently used tools for dimension reduction.
+Structured matrix recovery has found a wide spectrum of applications in real world, e.
+Consider a system of m quadratic equations 2 yi = |hai , xi| , T i ∈ [m] := {1, 2, .
+Is there a difference between doing something and showing someone else how to do something? Consider cooking a chicken.
+We propose a stochastic optimization method for the three-composite minimization problem: minimize f (x) + g(x) + h(x), x∈Rd (1) where f : Rd → R and g : Rd → R are proper, lower semicontinuous convex functions that admit tractable proximal operators, and h : Rd → R is a smooth function with restricted strong convexity.
+Boltzmann machines [1] are powerful generative models that can be used to approximate a large class of real-world data distributions, such as handwritten characters [9], speech segments [7], or multimodal data [16].
+The k-means problem and its variants constitute one of the most popular paradigms for clustering [15].
+Humans can effortlessly manipulate previously unseen objects in novel ways.
+In modern science and technology applications, it has become routine to collect complex datasets with a huge number p of variables and/or enormous sample size n.
+Visual similarity learning is the foundation for numerous computer vision subtasks ranging from low-level image processing to high-level object recognition or posture analysis.
+Learning and using environmental statistics in choice-selection under uncertainty is a fundamental survival skill.
+In recent years, there has been a surge of interest in machine learning methods that involve discrete optimization.
+Many real-world networks cannot be studied directly because they are obscured in some way, are too large, or are too difficult to measure.
+Data summarization, a central challenge in machine learning, is the task of finding a representative subset of manageable size out of a large dataset.
+Differential privacy [DMNS06] is a stability condition on a randomized algorithm, designed to guarantee individual-level privacy during data analysis.
+Generative adversarial networks [1] (GANs) are a class of methods for learning generative models based on game theory.
+Consider players repeatedly playing a game, all acting independently to minimize their cost or maximize their utility.
+Bayesian optimization (BO) [1] provides a powerful framework for automating design problems, and finds applications in robotics, environmental monitoring, and automated machine learning, just to name a few.
+Our launching point is the optimization problem min kxk0 s.
+Capturing and summarizing the global shape of a cloud of points is at the heart of many data processing applications such as novelty detection, outlier detection as well as related unsupervised learning tasks such as clustering and density estimation.
+Neural network (NN) learning has underpinned state of the art empirical results in numerous applied machine learning tasks, see for instance [25, 26].
+The growing amount of data available nowadays allowed us to increase the confidence in the models induced by machine learning methods.
+Decision tree-based methods, such as random forests and gradient-boosted trees, have a rich and successful history in the machine learning literature.
+Deep feed-forward embeddings play a crucial role across a wide range of tasks and applications in image retrieval [1, 8, 15], biometric verification [3, 5, 13, 17, 22, 25, 28], visual product search [21], finding sparse and dense image correspondences [20, 29], etc.
+Convolutional neural networks (ConvNets) [1, 2] achieve state-of-the-art accuracy on a variety of computer vision tasks, including classification, object localization, detection, recognition and scene labeling [3, 4].
+In this paper, we consider the following optimization problem: min F (x) , f (x) + g(x) x∈Ω1 (1) where g(x) is a convex (but not necessarily smooth) function, Ω1 is a closed convex set and f (x) is a convex but non-smooth function which can be explicitly written as f (x) = max hAx, ui − φ(u) u∈Ω2 (2) where Ω2 ⊂ Rm is a closed convex bounded set, A ∈ Rm×d and φ(u) is a convex function, and h·, ·i is scalar product.
+Practical classiﬁcation problems usually involve corrupted labels.
+Many machine learning tasks reduce to Finite Sum Minimization (FSM) problems of the form n min F (w) := w∈Rd 1X fi (w), n i=1 (1) where fi are L-smooth and µ-strongly convex.
+Modern state-of-the-art object detection systems [1, 2] usually adopt a two-step pipeline: extract a set of class-independent object proposals at first and then classify these object proposals with a pre-trained classifier.
+A quadratic function is one of the most important function classes in machine learning, statistics, and data mining.
+Probabilistic generative models describe a probability distribution over a given domain X , for example a distribution over natural language sentences, natural images, or recorded waveforms.
+One of the most remarkable engineering marvels of nature is the ability of many species such as bats, toothed whales and dolphins to navigate and identify preys and predators by echolocation, i.
+We consider the problem of recovering a complex-valued signal (xt )t∈Z from the noisy observations yτ = xτ + σζτ , −n ≤ τ ≤ n.
+Determining the subset (or assortment) of items to offer is a key decision problem that commonly arises in several application contexts.
+A lot of efforts have been devoted to structure design of convolutional neural network (CNN).
+We study the following rich class of (possibly nonconvex) finite-sum optimization problems: n min x2X ⇢M f (x) , 1X fi (x), n i=1 (1) where (M, g) is a Riemannian manifold with the Riemannian metric g, and X ⇢ M is a geodesically convex set.
+Modern machine learning applications require computational approaches that are at the same time statistically accurate and numerically efficient [2].
+Given two large matrices A and B we study the problem of finding a low rank approximation of their product AT B, using only one pass over the matrix elements.
+How can we reliably obtain information from humans, given that the humans themselves are unreliable, and might even have incentives to mislead us? Versions of this question arise in crowdsourcing (Vuurens et al.
+The Laplace-Beltrami operator is a fundamental and widely studied mathematical tool carrying a lot of intrinsic topological and geometric information about the Riemannian manifold on which it is defined.
+A variety of tasks in machine learning, computer vision and other disciplines can be formulated as energy minimization problems, also known as Maximum-a-Posteriori (MAP) or Maximum Likelihood (ML) estimation problems in undirected graphical models (Markov or Conditional Random Fields).
+Markov Chain Monte Carlo (MCMC) sampling [1] stands as a fundamental approach for probabilistic inference in many computational statistical problems.
+Bayesian inference provides a powerful tool for modeling complex data and reasoning under uncertainty, but casts a long standing challenge on computing intractable posterior distributions.
+There has been great interest in multi-view learning, in which data are obtained from various information sources.
+State-of-the-art classifiers, especially deep networks, have shown impressive classification performance on many challenging benchmarks in visual tasks [9] and speech processing [7].
+Recent efforts to estimate the 2.
+Rapid advances in 3D sensing technology have made 3D data ubiquitous and easily accessible, rendering them an important data source for high 10.
+Low rank matrix recovery problem is heavily studied and has numerous applications in collaborative filtering, quantum state tomography, clustering, community detection, metric learning and multi-task learning [21, 12, 9, 27].
+Computing a concise, yet diverse and representative subset of a large collection of elements is a central problem in many areas.
+Learning goal-directed behavior with sparse feedback from complex environments is a fundamental challenge for artificial intelligence.
+A long-standing challenge in machine learning is to learn flexible monotonic functions [1] for classification, regression, and ranking problems.
+Unsupervised learning can be described as the general problem of extracting value from unlabelled data which exists in vast quantities.
+Communication is a fundamental aspect of intelligence, enabling agents to behave as a group, rather than a collection of individuals.
+A prevalent family [9, 7, 19] of deep networks for object detection can be divided into two subnetworks by the Region-of-Interest (RoI) pooling layer [7]: (i) a shared, “fully convolutional” subnetwork independent of RoIs, and (ii) an RoI-wise subnetwork that does not share computation.
+A large body of recent developments in optimization have focused on minimization of convex finite sums of the form: n 1X f (x) = fi (x), n i=1 a very general class of problems including the empirical risk minimization (ERM) framework as a special case.
+Problem Statement Conventional automatic speech recognition (ASR) is performed by highly supervised systems which utilize large amounts of training data and expert knowledge.
+Modern technological advances now enable scientists to simultaneously record hundreds or thousands of variables in fields ranging from neuroscience and genomics to health care and economics.
+Understanding the 3D world is at the heart of successful computer vision applications in robotics, rendering and modeling [19].
+The field of social dynamics is concerned primarily with interactions among individuals and the resulting group behaviors.
+In many areas of data science, high-dimensional signals contain rich structure.
+Confronted with the continuous flow of experience, the brain takes amorphous sensory inputs and translates them into coherent objects and scenes.
+Image super-resolution (SR) aiming to recover a high-resolution (HR) image from a single lowresolution (LR) image, has important applications in image processing and computer vision, ranging from high-definition (HD) televisions and surveillance to medical imaging.
+We study online decision making problems where a learner chooses an action based on some side information (context) and incurs some cost for that action with a goal of incurring minimal cost over a sequence of rounds.
+In the last 10 years, the amount of data available is growing at an unprecedented rate.
+As machine learning increasingly affects decisions in domains protected by anti-discrimination law, there is much interest in algorithmically measuring and ensuring fairness in machine learning.
+How language and communication emerge among intelligent agents has long been a topic of intense debate.
+Computing the dominant eigenvectors of matrices and graphs is one of the most fundamental tasks in various machine learning problems, including low-rank approximation, principal component analysis, spectral clustering, dimensionality reduction and matrix completion.
+Feature selection is one of the fundamental problems in machine learning research [1, 2].
+Significant progress has been recently made on developing inference tools to complement the feature selection methods that have been intensively studied in the past decade [6, 5, 9].
+In neuro-imaging, inter-subject variability is often handled as a statistical residual and discarded.
+Clustering is a central problem in the analysis and exploration of data.
+Many problems in real-world applications involve predicting a collection of random variables that are statistically related.
+The most acknowledged methods of measuring importance of nodes in graphs are based on random walk models.
+Kernel methods have long been effective in generalizing linear statistical approaches to nonlinear cases by embedding a sample to the reproducing kernel Hilbert space (RKHS) [1].
+The method of random projections (RPs) is an important approach to linear dimensionality reduction [23].
+Probabilistic techniques are central to data analysis, but can be difficult to apply, combine, and compare.
+In recent years, convolutional neural networks (CNNs) trained on large scale datasets have achieved remarkable performance on traditional vision problems such as image classification [8, 18, 26], object detection and localization [5, 16] and others.
+Explosive growth in the size of modern datasets has fueled the recent interest in distributed statistical learning.
+Magnetic Resonance Imaging (MRI) is a non-invasive imaging technique providing both functional and anatomical information for clinical diagnosis.
+From just a single snapshot, humans are often able to imagine how a scene will visually change over time.
+Robust statistical estimators [5, 7] (in particular, resistant estimators), such as the median, are an essential tool in data analysis since they are provably immune to outliers.
+A common goal for standard classification problems in machine learning is to find a classifier that minimizes the zero-one loss.
+Many machine-learning algorithms rely on a-priori access to data to properly tune relevant hyperparameters [Bergstra et al.
+Stochastic Gradient Descent (SGD) based optimization methods are widely used for many different learning problems.
+Stochastic multi-armed bandits (MAB) have a rich history in sequential decision making [1, 2, 3].
+The singular value decomposition (SVD) of a rank-r matrix A ∈ Rd×n corresponds to decomposing A = V ΣU > where V ∈ Rd×r , U ∈ Rn×r are two column orthonormal matrices, and Σ = diag{σ1 , .
+Thanks to the growing availability of large-scale datasets and computation power, Deep Learning has recently generated a quasi-revolution in many fields, such as Computer Vision and Natural Language Processing.
+We consider the problem of predicting online the entries in an m ⇥ n binary matrix U .
+We consider the problem of efficiently estimating the coefficients of generalized linear models (GLMs) when the number of observations n is much larger than the dimension of the coefficient vector p, (n p 1).
+We consider modeling the joint distribution Pr(y1 , .
+In modern high dimensional data analysis tasks, a routinely faced challenge is that the number of collected samples is substantially smaller than the dimensionality of features.
+Offline handwriting recognition consists in recognizing a sequence of characters in an image of handwritten text.
+Stochastic multi-armed bandit (MAB) is a classical online learning problem typically specified as a player against m machines or arms.
+A touchstone problem for computational linguistics is to translate natural language descriptions into executable programs.
+Deep networks have significantly improved the state of the art for a wide variety of machine-learning problems and applications.
+Bayesian networks learned from data are broadly used for classification, clustering, feature selection, and to determine associations and dependencies between random variables, in addition to discovering causes and effects; see, e.
+Many clustering applications require models that assume cluster sizes grow linearly with the size of the data set.
+We live in a three-dimensional world, yet our observations of it are typically in the form of twodimensional projections that we capture with our eyes or with cameras.
+We consider online sequential decision problems.
+Deep convolutional neural networks (CNNs) have achieved great success in a wide range of problems in the last few years.
+Most learning and inference algorithms in the probabilistic topic modeling literature can be delineated along two major lines: the variational approximation popularized in the seminal paper of Blei et al.
+Feature construction has been and remains an important topic for reinforcement learning.
+Deep generative models with latent variables can capture image information in a probabilistic manner to answer questions about structure and uncertainty.
+Contexts contribute semantic clues for action recognition in video.
+A hallmark of empirical risk minimization (ERM) on large datasets is that evaluating descent directions requires a complete pass over the dataset.
+Crowdsourcing platforms provide labor markets in which pieces of micro-tasks are electronically distributed to a pool of workers.
+Until recently, neural data analysis techniques focused primarily upon the analysis of single neurons and small populations.
+Visual markers (also known as visual fiducials or visual codes) are used to facilitate humanenvironment and robot-environment interaction, and to aid computer vision in resource-constrained and/or accuracy-critical scenarios.
+Modern data science applications increasingly involve learning complex probabilistic models over massive datasets.
+Given a couple (X, Y ) of random variables, where Y takes scalar values, a common aim in statistics and machine learning is to estimate the conditional expectation E [Y | X = x] as a function of x.
+When using optimization in machine learning, leveraging the natural separability of the objective functions has led to many algorithmic advances; the most common example is the separability as a sum of individual loss terms corresponding to individual observations, which leads to stochastic gradient descent techniques.
+In the contextual bandit problem [8, 2], the decision maker observes a sequence of contexts (or features).
+The data matrix is X ∈ Rn×d (a row xiT ∈ R1×d is a data point in d dimensions).
+Many researchers, particularly in economics, psychology, and the social sciences, use linear structural equation models (SEMs) to describe the causal and statistical relationships between a set of variables, predict the effects of interventions and policies, and to estimate parameters of interest.
+This paper describes swapout, a stochastic training method for general deep networks.
+Life-long learning is an emerging object of study in machine learning, statistics, and many other domains [2, 11].
+Submodular functions provide efficient and flexible tools for learning on discrete data.
+Correspondence estimation is the workhorse that drives several fundamental problems in computer vision, such as 3D reconstruction, image retrieval or object recognition.
+Deep feed-forward and recurrent neural networks have been shown to be remarkably effective in a wide variety of problems.
+Deep learning methods have taken by storm areas such as computer vision, natural language processing and speech recognition.
+As the reinforcement learning community has shifted its focus from heuristic methods to methods that have performance guarantees, PAC exploration algorithms have received significant attention.
+The sensory data that enters our brain through our sensors has a high intrinsic dimensionality and it is complex and ambiguous.
+What makes a 3D generative model of object shapes appealing? We believe a good generative model should be able to synthesize 3D objects that are both highly varied and realistic.
+L2 quantities (i.
+The pervasiveness of big data has made scalable machine learning increasingly important, especially for deep models.
+The human percept of a visual scene is highly structured.
+For large-scale machine learning applications, n, the number of training data examples, is usually very large.
+Can we measure the accuracy of a model at test time without any ground truth labels, and without assuming the test distribution is close to the training distribution? This is the problem of unsupervised risk estimation (Donmez et al.
+Convolutional neural networks (CNNs) [15] have proven extremely successful for a wide range of computer vision problems and other applications.
+Deep learning [13, 16] is currently the state of the art machine learning technique in many application areas such as computer vision or natural language processing.
+Distributions over subsets of objects arise in a variety of machine learning applications.
+We study nonconvex, nonsmooth, finite-sum optimization problems of the form n min x2Rd F (x) := f (x) + h(x), where f (x) := 1X fi (x), n i=1 (1) and each fi : Rd ! R is smooth (possibly nonconvex) for all i 2 {1, .
+We study the problem of minimizing a convex function f over a feasible set X , a closed convex subset of E = Rn .
+The multi-armed bandit problem (MAB) is a sequential learning task in which an algorithm takes at each stage a decision (or, “pulls an arm”).
+Maximum entropy principle The maximum entropy principle [Jay57] states that given mean parameters, i.
+Hidden Markov models (HMMs) [1] are one of the most popular statistical models for analyzing time series data in various application domains such as speech recognition, medicine, and meteorology.
+Sum-product networks (SPNs) are new deep graphical model architectures that admit exact probabilistic inference in linear time in the size of the network [14].
+Game theory provides a powerful framework for the design and analysis of multiagent systems that involve strategic interactions [see, e.
+Hyperparameter optimization is crucial for obtaining good performance in many machine learning algorithms, such as support vector machines, deep neural networks, and deep reinforcement learning.
+We consider the Online Linear Optimization (OLO) [4, 25] setting.
+Ordinary recurrent neural networks typically have two types of memory that have very different time scales, very different capacities and very different computational roles.
+Bayesian non-parametric ideas have played a major role in various intricate applications in statistics and machine learning.
+Recently neural networks (NN) have achieved state-of-the-art performance in various applications ranging from computer vision [12] to natural language processing [20].
+Network analysis has been widely used in various fields to characterize the interdependencies between a group of variables, such as molecular entities including RNAs and proteins in genetic networks [3].
+In this paper, consider the recovery from linear noisy measurements of β ? ∈ Rp , which satisfies the following structural sparsity that the linear transformation γ ? := Dβ ? for some D ∈ Rm×p has most of its elements being zeros.
+The recently introduced variational autoencoder (VAE) [10, 19] provides a framework for deep generative models.
+Minimizing a convex function over the set of positive semidefinite matrices with unit trace, aka the spectrahedron, is an important optimization task which lies at the heart of many optimization, machine learning, and signal processing tasks such as matrix completion [1, 13], metric learning [21, 22], kernel matrix learning [16, 9], multiclass classification [2, 23], and more.
+In active learning, the learner is given an input space X , a label space L, and a hypothesis class H such that one of the hypotheses in the class generates ground truth labels.
+Submodular functions are attractive models of many physical processes primarily because they possess an inherent naturalness to a wide variety of problems (e.
+Studying the anatomy of individual neurons and the circuits they form is a classical approach to understanding how nervous systems function since Ramón y Cajal’s founding work.
+Recently, so-called adaptive stochastic optimization algorithms have gained popularity for large-scale convex and non-convex optimization problems.
+Online social platforms and service websites, such as Reddit, Netflix and Amazon, are attracting thousands of users every minute.
+In a large and complex environment, such as a city, we often need to be able to flexibly plan so that we can reach a wide variety of goal locations from different start locations.
+Active learning is a problem setting for sequentially selecting unlabeled instances to be labeled, and it has been studied with much practical interest as an efficient way to reduce the annotation cost.
+As a family of brain inspired models, deep neural networks (DNNs) have substantially advanced a variety of artificial intelligence tasks including image classification [13, 19, 11], natural language processing, speech recognition and face recognition.
+Recently there has been a surge of interest in training neural networks to generate images.
+Large datasets provide great opportunities to learn rich statistical representations, for accurate predictions and new scientific insights into our modeling problems.
+In this paper, we study the problem of non-negative matrix factorization (NMF), where given a matrix Y ∈ Rm×N , the goal to find a matrix A ∈ Rm×n and a non-negative matrix X ∈ Rn×N such that Y ≈ AX.
+The traditional analysis of algorithms is based on a worst-case, minimax formulation.
+Dropout has been widely used to avoid overfitting of deep neural networks with a large number of parameters [9, 16], which usually identically and independently at random samples neurons and sets their outputs to be zeros.
+Decision tree [16] is a widely used machine learning algorithm, since it is practically effective and the rules it learns are simple and interpretable.
+Learning theory traditionally has been studied in a statistical framework, discussed at length, for example, by Shalev-Shwartz and Ben-David [2014].
+Multi-Armed Bandit (MAB) problems have been studied extensively in the past, with two important special cases: the Stochastic Multi-Armed Bandit, and the Adversarial (Non-Stochastic) Multi-Armed Bandit.
+Sparsity is a critical property for the success of regression methods, especially in high dimension.
+Gaussian processes (GPs) are nonparametric statistical models widely used for probabilistic reasoning about functions.
+We study the general problem of eliciting and aggregating information for categorical questions.
+In scientific and engineering fields researchers often times face the problem of quantifying the relationship between a given outcome Y and corresponding predictor vector X, based on a sample {(Yi , Xi> )> }ni=1 of n observations.
+The various existing kernel methods can conveniently be applied to any type of data, for which a kernel is available that adequately measures the similarity between any two data objects.
+Several diverse domains such as judiciary, health care, and insurance rely heavily on human decision making.
+In computational learning theory, one of the fundamental challenges is to understand how different information complexity measures arising from different learning models relate to each other.
+Online learning represents a family of effective and scalable learning algorithms for incrementally building a predictive model from a sequence of data samples [1].
+We address the problem of discovering features of distinct probability distributions, with which they can most easily be distinguished.
+Price optimization is a central research topic with respect to revenue management in marketing science [10, 16, 18].
+State estimation is an important component of mobile robotic applications, including autonomous driving and flight [22].
+Let G = (V, E) be a d-dimensional grid graph, i.
+Since Fisher’s 1922 paper (Fisher, 1922), maximum likelihood estimators (MLE) have become one of the most popular tools in many areas of science and engineering.
+Many canonical machine learning problems boil down to solving a convex empirical risk minimization problem of the form m min F (w) = w∈W 1 X fi (w), m i=1 (1) where each individual function fi (·) is convex (e.
+An important facet of neural data analysis concerns characterizing the tuning properties of neurons, defined as the average firing rate of a cell conditioned on the value of some external variables, for instance the orientation of an image patch in a V1 cell, or the position of the animal within an environment for hippocampal cells.
+A multiagent economy is comprised of agents interacting under specific economic rules.
+With the proliferation of online social networks, the problem of optimally influencing the opinions of individuals in a population has garnered tremendous attention [1–3].
+For supervised learning, the back-propagation algorithm (BP), see [2], has achieved great success in training deep neural networks.
+Finite mixture models are widely used in variety of statistical settings, as models for heterogeneous populations, as flexible models for multivariate density estimation and as models for clustering.
+We are interested in a specific setting of imitation learning—the problem of learning to perform a task from expert demonstrations—in which the learner is given only samples of trajectories from the expert, is not allowed to query the expert for more data while training, and is not provided a reinforcement signal of any kind.
+Recently there has been growing appreciation for tensor methods in machine learning.
+Facial behavior is a powerful means to express emotions and to perceive the intentions of a human.
+Machine learning has made significant progress in understanding both theoretical and practical aspects of solving a single prediction problem from a set of annotated examples.
+Large-scale datasets, comprising tens or hundreds of millions of observations, are becoming the norm in scientific and commercial applications ranging from population genetics to advertising.
+Algorithms for dimensionality reduction usually aim to project an input set of d-dimensional vectors (database records) onto a k ≤ d − 1 dimensional affine subspace that minimizes the sum of squared distances to these vectors, under some constraints.
+The fields of object recognition, speech recognition, machine translation have been revolutionized by the emergence of massive labeled datasets [31, 42, 10] and learned deep representations [17, 33, 10, 35].
+Unsupervised nonlinear feature learning, or unsupervised representation learning, is one of the biggest challenges facing machine learning.
+Methods of feature selection is an important topic of machine learning [8, 2, 17], since they improve performance of learning systems while reducing their computational costs.
+Successful object recognition systems, such as Convolutional Neural Networks (CNN), extract “distinctive patterns” that describe an object (e.
+Deep learning has been a great practical success in many fields, including the fields of computer vision, machine learning, and artificial intelligence.
+The oldest and most reliable method for recording neural activity involves lowering an electrode into the brain and recording the local electrical activity around the electrode tip.
+Two phenomena are generally considered important for modelling complex networks.
+Online learning methods are highly successful at rapidly reducing the test error on large, highdimensional datasets.
+Bandit convex optimization (BCO) is a key framework for modeling learning problems with sequential data under partial feedback.
+Markov Chain Monte Carlo (MCMC) techniques are one of the most popular family of algorithms in Bayesian machine learning.
+Calcium imaging has become one of the most widely used techniques for recording activity from neural populations in vivo [1].
+In traditional machine learning, it is assumed that data are identically drawn from a single distribution.
+Tensors are a powerful tool for dealing with multi-modal and multi-relational data.
+Recently there has been a resurgence of new structural designs for recurrent neural networks (RNNs) [1, 2, 3].
+Humans are adept at a wide array of complicated sensory inference tasks, from recognizing objects in an image to understanding phonemes in a speech signal, despite significant variations such as the position, orientation, and scale of objects and the pronunciation, pitch, and volume of speech.
+The efficient coding hypothesis [1, 2] plays a fundamental role in understanding neural codes, particularly in early sensory processing.
+Digital crowdsourcing (CS) is a modern approach to perform certain large projects using small contributions of a large crowd.
+Classic optical character recognition (OCR) tools focus on reading text from well-prepared scanned documents.
+In this paper we study the facility location problem: we are given sets V of size n, I of size m and a benefit matrix of nonnegative numbers C 2 RI⇥V , where Civ describes the benefit that element i receives from element v.
+Medical drug testing, policy setting, and other scientific processes are commonly framed and analysed in the language of sequential experimental design and, in special cases, as bandit problems (Robbins, 1952; Chernoff, 1959).
+Temporal events modeling is a classic machine learning problem that has drawn enormous research attentions for decades.
+Many social phenomena, such as the spread of diseases, behaviors, technologies, or products, can naturally be modeled as the diffusion of a contagion across a network.
+Sequentially observed count vectors y (1) , .
+Markov random fields (MRFs) [10] are widely used across different domains from computer vision and natural language processing to computational biology, because they are a general tool to describe distributions that involve multiple variables.
+Recent successes of deep neural networks have spanned many domains, from computer vision [1] to speech recognition [2] and many other tasks.
+In statistical learning or other data-based decision-making problems, it is desirable to give solutions that come with guarantees on performance, at least to some specified confidence level.
+The primary objective of linear regression is to determine the relationships between multiple variables and how they may affect a certain outcome.
+Most active learning theory is based on interacting with a L ABEL oracle: An active learner observes unlabeled examples, each with a label that is initially hidden.
+Training deep, directed generative models with many layers of latent variables poses a challenging problem.
+Over the last decade, deep convolutional neural networks (CNNs) have revolutionized supervised learning for tasks such as object recognition, action recognition, and semantic segmentation [3, 15, 6, 19].
+Recurrent Neural Networks (RNNs) have been found to be successful in a variety of sequence learning problems [4, 3, 9], including those involving long term dependencies (e.
+We consider semideﬁnite programs (SDP’s) of the form f∗ = min �C, X� X∈Sn×n subject to A(X) = b, X � 0, (SDP) where �C, X� = Tr(C �X), C ∈ Sn×n is the symmetric cost matrix, A : Sn×n → Rm is a linear operator capturing m equality constraints with right hand side b ∈ Rm and the variable X is symmetric, positive semideﬁnite.
+To allow for efficient navigation and search, modern information systems rely on the usage of nonhierarchical tags, keywords, or labels to describe items and content.
+Over the past decades, enormous human effort has been devoted to machine learning; preprocessing data, model selection, and hyperparameter optimization are some examples of critical and often expert-dependent tasks.
+An important problem, for both humans and machines, is to extract relevant information from complex data.
+One primary goal of cognitive neuroscience is to find a mapping from neural activity onto cognitive processes–that is, to identify functional networks in the brain and the role they play in supporting macroscopic functions.
+Suppose we want to solve the following optimization problem min f (x) x∈Rn (1) in the variable x ∈ Rn , where f (x) is strongly convex with respect to the Euclidean norm with parameter µ, and has a Lipschitz continuous gradient with parameter L with respect to the same norm.
+Survival analysis is a branch of statistics focused on the study of time-to-event data, usually called survival times.
+We consider the standard K-armed adversarial bandit problem, which is a game played over T rounds between a learner and an adversary.
+It is now a very frequent issue for companies to optimise their daily profits by choosing between one of two possible website layouts.
+Structured prediction methods [1; 2; 3; 4; 5] are widely adopted techniques for learning mappings between context descriptions x ∈ X and configurations y ∈ Y.
+The problem of timely risk assessment and decision-making based on a sequentially observed time series is ubiquitous, with applications in finance, medicine, cognitive science and signal processing [1-7].
+Statistical relational learning (SRL) [8] aims at unifying logic and probability for reasoning and learning in noisy domains, described in terms of individuals (or objects), and the relationships between them.
+In this paper, we consider the task of monocular depth estimation—i.
+The paper concerns the problem of learning a joint distribution of multi-domain images from data.
+The classical PAC learning framework of Valiant (1984) considers a learning problem with unknown true distribution p on X ⇥ Y , Y = {0, 1} and fixed concept class C consisting of (deterministic) functions f : X ! Y .
+Let φ : R → R+ be a lower semi-continuous (lsc) and symmetric function with minimum value φ(0).
+Humans are good at predicting another view from related views.
+The broad adoption of Electronic Health Record (EHR) systems has opened the possibility of applying clinical predictive models to improve the quality of clinical care.
+Numerous central problems in machine learning, statistics and operations research are special cases of stochastic optimization from i.
+Exploration algorithms for Markov Decision Processes (MDPs) are typically concerned with reducing the agent’s uncertainty over the environment’s reward and transition functions.
+Clustering is a challenging task particularly due to two impediments.
+This work studies statistical learning theory using the point of view of compression.
+Recovering a signal via a quadratic system of equations has gained intensive attention recently.
+Community detection consists in extracting (a few) groups of similar items from a large global population, and has applications in a wide spectrum of disciplines including social sciences, biology, computer science, and statistical physics.
+There has been significant interest and progress in recent years in developing algorithms for dueling bandit problems [1–11].
+The stochastic block model (SBM) is widely used as a model for community detection and as a benchmark for clustering algorithms.
+Unsupervised representation learning is one of the major themes of modern data science; a common theme among the various approaches is to extract maximally “informative" features via informationtheoretic metrics (entropy, mutual information and their variations) – the primary reason for the popularity of information theoretic measures is that they are invariant to one-to-one transformations and that they obey natural axioms such as data processing.
+The human sensory system is devoted to the processing of sensory information to drive our perception of the environment [1].
+In geometry processing, computer graphics, and vision, finding intrinsic correspondence between 3D shapes affected by different transformations is one of the fundamental problems with a wide spectrum of applications ranging from texture mapping to animation [25].
+Longitudinal data is becoming increasingly important in medical research and practice.
+Markov chain Monte Carlo (MCMC) is one of the most important classes of probabilistic inference methods and underlies a variety of approaches to automatic inference [e.
+We initiate the systematic study of a general class of multi-dimensional prediction problems, where the learner wishes to predict the solution to an unknown linear program (LP), given some partial information about either the set of constraints or the objective.
+Dynamics-based Markov Chain Monte Carlo methods (D-MCMCs) are sampling methods using dynamics simulation for state transition in a Markov chain.
+Structured prediction covers a broad family of important learning problems.
+Nearest neighbor (NN) search is a basic primitive of machine learning and statistics.
+A fundamental problem in the theory of clustering is that of deﬁning a cluster.
+With the high prevalence and abundance of Internet services, recommender systems are becoming increasingly important to attract users because they can help users make effective use of the information available.
+Modeling of large-scale stochastic phenomena with both spatial and temporal (spatiotemporal) evolution is a fundamental problem in the applied sciences and social networks.
+Discovering causal relations from data is at the foundation of the scientific method.
+Recently recurrent neural networks (RNNs) have been used in many natural language processing (NLP) tasks, such as language modeling [14], machine translation [23], sentiment analysis [24], and question answering [26].
+Recently, there has been an increasing interest in adapting machine learning and statistical methods to tensors.
+Deep feedforward neural networks have achieved remarkable performance across many domains [1–6].
+Variational methods have surpassed traditional methods such as Markov chain Monte Carlo [MCMC, 15] and mean-field coordinate ascent [25] as the de-facto standard approach for training directed graphical models.
+Differential privacy is a notion of privacy that provides a statistical measure of privacy protection for randomized statistics.

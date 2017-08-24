@@ -1,0 +1,96 @@
+{'data_path': './firstintro_data', 'kenlm_path': '../Data/kenlm', 'outf': './abstract_example', 'vocab_size': 11000, 'maxlen': 30, 'lowercase': False, 'emsize': 300, 'nhidden': 300, 'nlayers': 1, 'noise_radius': 0.2, 'noise_anneal': 0.995, 'hidden_init': False, 'arch_g': '300-300', 'arch_d': '300-300', 'z_size': 100, 'temp': 1, 'enc_grad_norm': True, 'gan_toenc': -0.01, 'dropout': 0.0, 'epochs': 15, 'min_epochs': 6, 'no_earlystopping': False, 'patience': 5, 'batch_size': 5, 'niters_ae': 1, 'niters_gan_d': 5, 'niters_gan_g': 1, 'niters_gan_schedule': '2-4-6', 'lr_ae': 1, 'lr_gan_g': 5e-05, 'lr_gan_d': 1e-05, 'beta1': 0.9, 'clip': 1, 'gan_clamp': 0.01, 'sample': False, 'N': 5, 'log_interval': 200, 'seed': 1111, 'cuda': True, 'ntokens': 11004}
+
+Training...
+[1/15][99/812] Loss_D: 0.00300588 (Loss_D_real: -0.00246634 Loss_D_fake: 0.00053953) Loss_G: 0.00053933
+[1/15][199/812] Loss_D: 0.00133276 (Loss_D_real: -0.00129806 Loss_D_fake: 0.00003470) Loss_G: 0.00009189
+| epoch   1 |   200/  812 batches | ms/batch 79.63 | loss  7.40 | ppl  1636.56 | acc     0.05
+[1/15][299/812] Loss_D: 0.00033128 (Loss_D_real: 0.00002681 Loss_D_fake: 0.00035809) Loss_G: 0.00035599
+[1/15][399/812] Loss_D: 0.00057450 (Loss_D_real: -0.00038475 Loss_D_fake: 0.00018975) Loss_G: 0.00054432
+| epoch   1 |   400/  812 batches | ms/batch 78.62 | loss  6.85 | ppl   948.36 | acc     0.05
+[1/15][499/812] Loss_D: 0.00211929 (Loss_D_real: -0.00156411 Loss_D_fake: 0.00055518) Loss_G: 0.00062956
+[1/15][599/812] Loss_D: 0.00374107 (Loss_D_real: -0.00357378 Loss_D_fake: 0.00016729) Loss_G: 0.00048231
+| epoch   1 |   600/  812 batches | ms/batch 80.31 | loss  6.72 | ppl   828.12 | acc     0.05
+[1/15][699/812] Loss_D: 0.00565477 (Loss_D_real: -0.00452517 Loss_D_fake: 0.00112960) Loss_G: 0.00109583
+[1/15][799/812] Loss_D: 0.00588368 (Loss_D_real: -0.00458478 Loss_D_fake: 0.00129891) Loss_G: 0.00127635
+| epoch   1 |   800/  812 batches | ms/batch 79.58 | loss  6.63 | ppl   757.11 | acc     0.11
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 65.19s | test loss  6.22 | test ppl 502.06 | acc 0.105
+-----------------------------------------------------------------------------------------
+GAN training loop schedule increased to 2
+[2/15][99/812] Loss_D: 0.00159456 (Loss_D_real: -0.00096901 Loss_D_fake: 0.00062555) Loss_G: 0.00061425
+[2/15][199/812] Loss_D: 0.00510748 (Loss_D_real: -0.00390795 Loss_D_fake: 0.00119953) Loss_G: 0.00046439
+| epoch   2 |   200/  812 batches | ms/batch 139.78 | loss  6.48 | ppl   651.67 | acc     0.11
+[2/15][299/812] Loss_D: 0.00567178 (Loss_D_real: -0.00432931 Loss_D_fake: 0.00134247) Loss_G: 0.00128026
+[2/15][399/812] Loss_D: 0.00479741 (Loss_D_real: -0.00331159 Loss_D_fake: 0.00148582) Loss_G: 0.00142074
+| epoch   2 |   400/  812 batches | ms/batch 140.93 | loss  6.32 | ppl   555.02 | acc     0.11
+[2/15][499/812] Loss_D: 0.00399729 (Loss_D_real: -0.00251666 Loss_D_fake: 0.00148064) Loss_G: 0.00173688
+[2/15][599/812] Loss_D: 0.00428808 (Loss_D_real: -0.00337243 Loss_D_fake: 0.00091565) Loss_G: 0.00035278
+| epoch   2 |   600/  812 batches | ms/batch 140.73 | loss  6.23 | ppl   506.56 | acc     0.11
+[2/15][699/812] Loss_D: 0.00485802 (Loss_D_real: -0.00334957 Loss_D_fake: 0.00150846) Loss_G: 0.00155098
+[2/15][799/812] Loss_D: 0.00541008 (Loss_D_real: -0.00334858 Loss_D_fake: 0.00206151) Loss_G: 0.00126559
+| epoch   2 |   800/  812 batches | ms/batch 138.57 | loss  6.06 | ppl   429.12 | acc     0.26
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 114.28s | test loss  5.76 | test ppl 318.23 | acc 0.151
+-----------------------------------------------------------------------------------------
+[3/15][99/812] Loss_D: 0.00160838 (Loss_D_real: -0.00216040 Loss_D_fake: -0.00055202) Loss_G: 0.00189604
+[3/15][199/812] Loss_D: 0.00238698 (Loss_D_real: -0.00115623 Loss_D_fake: 0.00123075) Loss_G: 0.00126262
+| epoch   3 |   200/  812 batches | ms/batch 138.20 | loss  5.92 | ppl   372.88 | acc     0.15
+[3/15][299/812] Loss_D: 0.00253059 (Loss_D_real: -0.00156487 Loss_D_fake: 0.00096572) Loss_G: 0.00093813
+[3/15][399/812] Loss_D: 0.00229657 (Loss_D_real: -0.00115983 Loss_D_fake: 0.00113674) Loss_G: 0.00119332
+| epoch   3 |   400/  812 batches | ms/batch 140.80 | loss  5.87 | ppl   352.88 | acc     0.18
+[3/15][499/812] Loss_D: 0.00416149 (Loss_D_real: -0.00375749 Loss_D_fake: 0.00040400) Loss_G: 0.00114016
+[3/15][599/812] Loss_D: 0.00271711 (Loss_D_real: -0.00189152 Loss_D_fake: 0.00082559) Loss_G: -0.00007742
+| epoch   3 |   600/  812 batches | ms/batch 140.95 | loss  5.79 | ppl   325.51 | acc     0.14
+[3/15][699/812] Loss_D: 0.00558043 (Loss_D_real: -0.00389969 Loss_D_fake: 0.00168073) Loss_G: 0.00056955
+[3/15][799/812] Loss_D: 0.00582328 (Loss_D_real: -0.00375868 Loss_D_fake: 0.00206460) Loss_G: 0.00156775
+| epoch   3 |   800/  812 batches | ms/batch 139.52 | loss  5.72 | ppl   305.95 | acc     0.19
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 114.11s | test loss  5.42 | test ppl 226.70 | acc 0.189
+-----------------------------------------------------------------------------------------
+GAN training loop schedule increased to 3
+[4/15][99/812] Loss_D: 0.00530004 (Loss_D_real: -0.00389608 Loss_D_fake: 0.00140396) Loss_G: 0.00182327
+[4/15][199/812] Loss_D: 0.00580306 (Loss_D_real: -0.00418935 Loss_D_fake: 0.00161371) Loss_G: 0.00146339
+| epoch   4 |   200/  812 batches | ms/batch 198.53 | loss  5.56 | ppl   259.88 | acc     0.14
+[4/15][299/812] Loss_D: 0.00097237 (Loss_D_real: -0.00027374 Loss_D_fake: 0.00069863) Loss_G: -0.00017463
+[4/15][399/812] Loss_D: 0.00296270 (Loss_D_real: -0.00105114 Loss_D_fake: 0.00191156) Loss_G: 0.00061150
+| epoch   4 |   400/  812 batches | ms/batch 198.27 | loss  5.50 | ppl   244.39 | acc     0.14
+[4/15][499/812] Loss_D: 0.00368497 (Loss_D_real: -0.00200720 Loss_D_fake: 0.00167776) Loss_G: 0.00227528
+[4/15][599/812] Loss_D: 0.00149479 (Loss_D_real: -0.00130752 Loss_D_fake: 0.00018726) Loss_G: 0.00091261
+| epoch   4 |   600/  812 batches | ms/batch 199.24 | loss  5.49 | ppl   242.20 | acc     0.26
+[4/15][699/812] Loss_D: 0.00609619 (Loss_D_real: -0.00408030 Loss_D_fake: 0.00201589) Loss_G: 0.00254799
+[4/15][799/812] Loss_D: 0.00290270 (Loss_D_real: -0.00055196 Loss_D_fake: 0.00235074) Loss_G: 0.00136968
+| epoch   4 |   800/  812 batches | ms/batch 200.18 | loss  5.42 | ppl   225.00 | acc     0.31
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 162.14s | test loss  5.18 | test ppl 178.18 | acc 0.220
+-----------------------------------------------------------------------------------------
+[5/15][99/812] Loss_D: 0.00211449 (Loss_D_real: -0.00173824 Loss_D_fake: 0.00037625) Loss_G: 0.00052659
+[5/15][199/812] Loss_D: 0.00576812 (Loss_D_real: -0.00498368 Loss_D_fake: 0.00078444) Loss_G: 0.00122045
+| epoch   5 |   200/  812 batches | ms/batch 198.30 | loss  5.26 | ppl   191.74 | acc     0.29
+[5/15][299/812] Loss_D: 0.00354210 (Loss_D_real: -0.00274699 Loss_D_fake: 0.00079511) Loss_G: 0.00133445
+[5/15][399/812] Loss_D: 0.00499795 (Loss_D_real: -0.00388617 Loss_D_fake: 0.00111178) Loss_G: 0.00063878
+| epoch   5 |   400/  812 batches | ms/batch 200.45 | loss  5.21 | ppl   182.57 | acc     0.19
+[5/15][499/812] Loss_D: 0.00498552 (Loss_D_real: -0.00412223 Loss_D_fake: 0.00086329) Loss_G: 0.00050470
+[5/15][599/812] Loss_D: 0.00384000 (Loss_D_real: -0.00334581 Loss_D_fake: 0.00049419) Loss_G: 0.00092848
+| epoch   5 |   600/  812 batches | ms/batch 198.33 | loss  5.20 | ppl   180.65 | acc     0.19
+[5/15][699/812] Loss_D: 0.00457919 (Loss_D_real: -0.00404354 Loss_D_fake: 0.00053564) Loss_G: 0.00038059
+[5/15][799/812] Loss_D: 0.00305178 (Loss_D_real: -0.00355637 Loss_D_fake: -0.00050460) Loss_G: -0.00052197
+| epoch   5 |   800/  812 batches | ms/batch 201.94 | loss  5.15 | ppl   172.43 | acc     0.25
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 162.71s | test loss  5.04 | test ppl 153.93 | acc 0.241
+-----------------------------------------------------------------------------------------
+GAN training loop schedule increased to 4
+[6/15][99/812] Loss_D: 0.00274653 (Loss_D_real: -0.00256072 Loss_D_fake: 0.00018581) Loss_G: 0.00029344
+[6/15][199/812] Loss_D: 0.00280331 (Loss_D_real: -0.00319311 Loss_D_fake: -0.00038981) Loss_G: 0.00092357
+| epoch   6 |   200/  812 batches | ms/batch 259.60 | loss  4.95 | ppl   141.05 | acc     0.31
+[6/15][299/812] Loss_D: 0.00419904 (Loss_D_real: -0.00296372 Loss_D_fake: 0.00123533) Loss_G: 0.00078485
+[6/15][399/812] Loss_D: 0.00271891 (Loss_D_real: -0.00246079 Loss_D_fake: 0.00025812) Loss_G: 0.00081122
+| epoch   6 |   400/  812 batches | ms/batch 254.85 | loss  4.98 | ppl   146.02 | acc     0.20
+[6/15][499/812] Loss_D: 0.00183846 (Loss_D_real: -0.00170401 Loss_D_fake: 0.00013445) Loss_G: 0.00040375
+[6/15][599/812] Loss_D: 0.00390751 (Loss_D_real: -0.00387926 Loss_D_fake: 0.00002825) Loss_G: 0.00005359
+| epoch   6 |   600/  812 batches | ms/batch 257.29 | loss  4.92 | ppl   136.97 | acc     0.22
+[6/15][699/812] Loss_D: 0.00290543 (Loss_D_real: -0.00267852 Loss_D_fake: 0.00022691) Loss_G: -0.00088471
+[6/15][799/812] Loss_D: 0.00289480 (Loss_D_real: -0.00317404 Loss_D_fake: -0.00027924) Loss_G: 0.00045149
+| epoch   6 |   800/  812 batches | ms/batch 251.47 | loss  4.95 | ppl   141.54 | acc     0.27
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 208.34s | test loss  4.88 | test ppl 130.98 | acc 0.258
+-----------------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+Many algorithms have been applied to be an effective tool for the past few years there has been a long history in the last Bayesian years <oov>
+Visual recognition is an important task in statistical learning.
+We consider the reinforcement learning methods for which the probability function for Markov decision processes <oov> and <oov> are presented.
+We consider the problem that we introduced by <oov> or noisy observations.
+Graphical models are an important tool for modeling the machine learning in probabilistic inference problems.
